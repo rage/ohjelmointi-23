@@ -48,70 +48,19 @@ Luentotallenteet julkaistaan luennon jälkeen tällä sivulla. Toistaiseksi näk
 
 Kurssin luentotallenteet päivitetään vuoden 2021 versioihin tiistaisin 7.9.2021 alkaen. Loput tallenteet ovat vuoden 2020 kurssilta. Asiasisältö on tätä kurssia vastaava, mutta tallenteilta mahdollisesti löytyvät huomautukset esimerkiksi tenttipäivämääriin tms. liittyen _eivät välttämättä pidä paikkaansa_!
 
-<table>
-  <thead>
-    <tr>
-      <td>Osa</td>
-      <td>Luentotallenne</td>
-    </tr>
-  </th>
-  <tbody>
-    <tr>
-      <td>Osa 1</td>
-      <td><a href="https://youtu.be/BMMHrUt69Sw">Luentotallenne (2022)</a></td>
-    </tr>
-    <tr>
-      <td>Osa 2</td>
-      <td><a href="https://youtu.be/udsxAy_EwGk">Luentotallenne, osa 1 (2021)</a><br>
-        <a href="https://youtu.be/e_6WKe5Sezs">Luentotallenne, osa 2 (2021)</a></td>
-    </tr>
-    <tr>
-      <td>Osa 3</td>
-      <td><a href="https://youtu.be/vxYbK85EBBY">Luentotallenne (2022)</a></td>
-    </tr>
-    <tr>
-      <td>Osa 4</td>
-      <td><a href="https://youtu.be/SDpPlH8GUWw">Luentotallenne (2022)</a></td>
-    </tr>
-    <tr>
-      <td>Osa 5</td>
-      <td><a href="https://youtu.be/Ehk01BPa5JM">Luentotallenne (2022)</a></td>
-    </tr>
-    <tr>
-      <td>Osa 6</td>
-      <td><a href="https://youtu.be/h0Ekh_iszHE">Luentotallenne (2021)</a></td>
-    </tr>
-    <tr>
-      <td>Osa 7</td>
-      <td><a href="https://youtu.be/35UE8I657pE">Luentotallenne (2021)</a></td>
-    </tr>
-    <tr>
-      <td>Osa 8</td>
-      <td><a href="https://youtu.be/A5F1pohaBDo">Luentotallenne (2022)</a></td>
-    </tr>
-    <tr>
-      <td>Osa 9</td>
-      <td><a href="https://youtu.be/vU4AA-9pWAM">Luentotallenne (2022)</a></td>
-    </tr>
-    <tr>
-      <td>Osa 10</td>
-      <td><a href="https://youtu.be/Hod7Tvfv1w4">Luentotallenne (2022)</a></td>
-    </tr>
-    <tr>
-      <td>Osa 11</td>
-      <td><a href="https://youtu.be/Rn7RNTnsIvo">Luentotallenne (2021)</a></td>
-    </tr>
-    <tr>
-      <td>Osa 12</td>
-      <td><a href="https://youtu.be/sfhFTHy-ANU">Luentotallenne (2021)</a></td>
-    </tr>
-    <tr>
-      <td>Osa 13</td>
-      <td>Ei tallennetta</td>
-    </tr>
-    <tr>
-      <td>Osa 14</td>
-      <td>Ei tallennetta</td>
-    </tr>
-  </tbody>
-</table>
+Osa    | Luentotallenne
+-------|---------------
+Osa 1  | [Luentotallenne (2022)](https://youtu.be/BMMHrUt69Sw)
+Osa 2  | [Lentotallenne, osa 1 (2021)](https://youtu.be/udsxAy_EwGk) <br> [Lentotallenne, osa 2 (2021)](https://youtu.be/e_6WKe5Sezs)
+Osa 3  | [Luentotallenne (2022)](https://youtu.be/vxYbK85EBBY)
+Osa 4  | [Luentotallenne (2022)](https://youtu.be/SDpPlH8GUWw)
+Osa 5  | [Luentotallenne (2022)](https://youtu.be/Ehk01BPa5JM)
+Osa 6  | [Luentotallenne (2021)](https://youtu.be/h0Ekh_iszHE)
+Osa 7  | [Luentotallenne (2021)](https://youtu.be/35UE8I657pE)
+Osa 8  | [Luentotallenne (2022)](https://youtu.be/A5F1pohaBDo)
+Osa 9  | [Luentotallenne (2022)](https://youtu.be/vU4AA-9pWAM)
+Osa 10 | [Luentotallenne (2022)](https://youtu.be/Hod7Tvfv1w4)
+Osa 11 | [Luentotallenne (2021)](https://youtu.be/Rn7RNTnsIvo)
+Osa 12 | [Luentotallenne (2021)](https://youtu.be/sfhFTHy-ANU)
+Osa 13 | Ei tallennetta
+Osa 14 | Ei tallennetta
