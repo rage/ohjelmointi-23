@@ -111,7 +111,7 @@ const MobileWrapperOrFragment = (props) => {
   if (props.mobileMenuOpen) {
     return <MobileWrapper {...props} />
   }
-  return <div />
+  return <div>{props.children}</div>
 }
 
 const Sidebar = (props) => {
