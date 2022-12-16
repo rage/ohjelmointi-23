@@ -23,7 +23,7 @@ Kurssit suoritetaan ratkomalla tehtäviä ja osallistumalla lopuksi kokeeseen.
 
 ## Tenttiin osallistuminen
 
-Voit osallistua mihin tahansa kokeeseen, kun olet saanut minimimäärän tehtäviä tehtyä. Käytännössä tämä tarkoittaa, että sinulla tulee olla 25 % kaikista kokeeseen kuuluvien yksittäisten tehtäväkierrosten pisteistä valmiina koepäivän aamuna klo 08.00. Jos pisteitä puuttuu, tenttisuoritustasi ei arvioida.
+Voit osallistua mihin tahansa kokeeseen, kun olet saanut minimimäärän tehtäviä tehtyä. Käytännössä tämä tarkoittaa, että sinulla tulee olla 25 % kaikista kokeeseen kuuluvien yksittäisten tehtäväkierrosten pisteistä valmiina koepäivän aamuna klo 08.00. Jos teet jatkokurssin tenttiä, kierros 14 pitää olla kokonaan suoritettuna. Jos pisteitä puuttuu, tenttisuoritustasi ei arvioida.
 
 Pisteitä tarkastellaan erikseen peruskurssin (osat 1-7) ja jatkokurssin (osat 8-14) osalta.
 
