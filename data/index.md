@@ -32,21 +32,15 @@ Käytä ensisijaisesti viestintävälineenä Discordia. Kurssin opettajiin voit 
 
 ## Aikataulu
 
-Kurssi on auki vuoden 2022 loppuun asti. Tehtäviä voi tehdä omaan tahtiin.
+Kurssi on auki vuoden 2023 loppuun asti. Tehtäviä voi tehdä omaan tahtiin siihen asti.
 
 ## Luennot
 
-Syksyn 2022 luennot pidetään tiistaisin kello 10.15 - 11.45 6.9.2022 alkaen. Voit seurata luentoa Zoomissa osoitteessa
-
-https://helsinki.zoom.us/j/63168097881?pwd=d0Z4THlOOVRhcTVQR1RNNkhxMlh2QT09
-
-Jos Zoom pyytää salasanaa, se on <strong>ohja</strong>.
-
-Luentotallenteet julkaistaan luennon jälkeen tällä sivulla. Toistaiseksi näkyvissä ovat lukuvuoden 2021-22 tallenteet.
+Syksyn 2022 luentotallenteet löytyvät alta. Seuraavat liveluennot pidetään syksyllä 2023.
 
 ## Luentotallenteet
 
-Kurssin luentotallenteet päivitetään vuoden 2021 versioihin tiistaisin 7.9.2021 alkaen. Loput tallenteet ovat vuoden 2020 kurssilta. Asiasisältö on tätä kurssia vastaava, mutta tallenteilta mahdollisesti löytyvät huomautukset esimerkiksi tenttipäivämääriin tms. liittyen _eivät välttämättä pidä paikkaansa_!
+Tallenteiden asiasisältö on tätä kurssia vastaava, mutta tallenteilta mahdollisesti löytyvät huomautukset esimerkiksi tenttipäivämääriin tms. liittyen _eivät välttämättä pidä paikkaansa_!
 
 Osa    | Luentotallenne
 -------|---------------
