@@ -7,6 +7,8 @@ banner: true
 sidebar_priority: 5000
 ---
 
+**Kurssi alkaa 16.1.2023**
+
 Nämä ovat Ohjelmoinnin perusteiden (TKT10002, 5 op) ja Ohjelmoinnin jatkokurssin (TKT10003, 5 op) kurssisivut.
 
 Kurssit suoritetaan tekemällä tehtäviä ja molempien kurssien päätteeksi on pakollinen tentti.
