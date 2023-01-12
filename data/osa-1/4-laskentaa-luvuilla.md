@@ -430,4 +430,4 @@ Vihje2: jos et keksi miten tehtävä ratkeaa, älä huolestu suotta vaan tutustu
 
 Kertauskysely tämän osan asioihin liittyen:
 
-<quiz id="5edeecaf-2432-5ebc-9cf5-ff373456b60b"></quiz>
+<quiz id="a9b97b42-4bfe-55aa-a1d4-8f8db058b50a"></quiz>

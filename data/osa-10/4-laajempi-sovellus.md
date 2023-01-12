@@ -836,5 +836,5 @@ Tässä esitelty tekniikka (joka kulkee ammattijargonissa nimellä _dependency i
 
 Vastaa lopuksi osion loppukyselyyn:
 
-<quiz id="c021d88b-26ec-539d-a101-39bee3f469ac"></quiz>
+<quiz id="adf5276f-057a-5ac0-85b1-024443782145"></quiz>
 

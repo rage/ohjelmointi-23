@@ -395,4 +395,4 @@ Anna luku: **6**
 
 </in-browser-programming-exercise>
 
-<quiz id="e93eac4e-c740-56e3-ae4c-60c37352f25e"></quiz>
+<quiz id="e2f853d1-544b-55c5-b257-7bc531034d9a"></quiz>

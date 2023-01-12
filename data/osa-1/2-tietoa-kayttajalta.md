@@ -251,4 +251,4 @@ Tarinan tulee muuttua sen mukaan, mitkä tiedot käyttäjä antaa.
 
 Kertauskysely tämän osan asioihin liittyen:
 
-<quiz id="a9640359-b90d-54f5-91fc-f9e66f93d64f"></quiz>
+<quiz id="260a58a9-a12e-5a55-835b-26cfac247f57"></quiz>

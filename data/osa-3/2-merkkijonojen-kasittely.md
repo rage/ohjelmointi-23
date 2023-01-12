@@ -791,4 +791,4 @@ Osajono ei esiinny merkkijonossa kahdesti.
 
 </in-browser-programming-exercise>
 
-<quiz id="d591593a-79fc-5cab-8720-5cba38d0df7e"></quiz>
+<quiz id="c5153430-cc5e-5fc8-9f9e-af4a06167a0f"></quiz>

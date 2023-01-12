@@ -16,7 +16,7 @@ Tämän osion jälkeen
 
 Vastaa seuraavaan kyselyyn ennen osion aloittamista. Saat vastaamisesta yhden tehtäväpisteen.
 
-<quiz id="70315fb7-4e36-5a4a-acfa-f71263e04f59"></quiz>
+<quiz id="6a4ceb56-be87-5007-add2-1f28fad7bdfc"></quiz>
 
 
 
@@ -434,4 +434,4 @@ print(5 + 8 - 4)
 
 Kertauskysely tämän osan asioihin liittyen:
 
-<quiz id="d54ba3df-efb8-5497-aec2-3da794c513c0"></quiz>
+<quiz id="7322e73e-d6c5-5490-af97-ec69c45e720b"></quiz>
