@@ -8,18 +8,23 @@ sidebar_priority: 4000
 
 Kurssit suoritetaan ratkomalla tehtäviä ja osallistumalla lopuksi kokeeseen.
 
-<strong>HUOM! Alla olevat päivät ovat viimeiset mahdollisuudet suorittaa tämä kurssin 2022-versio. Tehtäväsuoritukset eivät ole sellaisenaan voimassa vuoden 2023 alussa julkaistavalla uudella kurssilla, vaan sen suorittaakseen tulee tehdä uudet tehtävät.</strong>
+### Ohjelmoinnin perusteet koepäivät 2023
 
-### Ohjelmoinnin perusteet koepäivät 2022
+* Lauantai 11.3.2023
+* Lauantai 13.5.2023
+* Lauantai 1.7.2023
+* Lauantai 5.8.2023
+* Lauantai 21.10.2023
+* Lauantai 25.11.2023
 
-* Lauantai 26.11.22
-* Lauantai 14.1.23
+### Ohjelmoinnin jatkokurssi koepäivät 2023
 
-### Ohjelmoinnin jatkokurssi koepäivät 2022
-
-* Torstai 15.12.22
-* Lauantai 21.1.23
-* Lauantai 25.2.23
+* Lauantai 6.5.2023
+* Lauantai 10.6.2023
+* Lauantai 8.7.2023
+* Lauantai 12.8.2023
+* Lauantai 28.10.2023
+* Torstai 16.12.2023
 
 ## Tenttiin osallistuminen
 
