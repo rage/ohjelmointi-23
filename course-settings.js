@@ -12,65 +12,10 @@ const courseSettings = {
   bannerPath: "banner.svg",
   showExerciseDescriptionWhenNotLoggedIn: true,
   courseVariants: [
-    // {
-    //   tmcOrganization: "hbc",
-    //   tmcCourse: "hbc-python-TVT22A",
-    //   // quizzesId: "5c89b9b6-b8a6-4079-8c4f-a4bbc80b66a4",
-    // },
-    // {
-    //   tmcOrganization: "hbc",
-    //   tmcCourse: "hbc-python-TVT22B",
-    //   // quizzesId: "5c89b9b6-b8a6-4079-8c4f-a4bbc80b66a4",
-    // },
-    // {
-    //   tmcOrganization: "hbc",
-    //   tmcCourse: "hbc-python-TVT22C",
-    //   // quizzesId: "5c89b9b6-b8a6-4079-8c4f-a4bbc80b66a4",
-    // },
-    // {
-    //   tmcOrganization: "hbc",
-    //   tmcCourse: "hbc-python-TVT22D",
-    //   // quizzesId: "5c89b9b6-b8a6-4079-8c4f-a4bbc80b66a4",
-    // },
-    // {
-    //   tmcOrganization: "hbc",
-    //   tmcCourse: "hbc-python-TVT22E",
-    //   // quizzesId: "5c89b9b6-b8a6-4079-8c4f-a4bbc80b66a4",
-    // },
-    // {
-    //   tmcOrganization: "hbc",
-    //   tmcCourse: "hbc-python-TVT22E-Group",
-    //   // quizzesId: "5c89b9b6-b8a6-4079-8c4f-a4bbc80b66a4",
-    // },
-    // {
-    //   tmcOrganization: "hbc",
-    //   tmcCourse: "hbc-python-TVT22F",
-    //   // quizzesId: "5c89b9b6-b8a6-4079-8c4f-a4bbc80b66a4",
-    // },
-    // {
-    //   tmcOrganization: "haaga-helia",
-    //   tmcCourse: "python-2022",
-    // },
-    // {
-    //   tmcOrganization: "keravanlukio",
-    //   tmcCourse: "tkt01-python-2021-22",
-    // },
-    // {
-    //   tmcOrganization: "hellu",
-    //   tmcCourse: "python-2022",
-    // },
-    // {
-    //   tmcOrganization: "graninlukio",
-    //   tmcCourse: "tvt4-python-2022",
-    // },
-    // {
-    //   tmcOrganization: "vuolu",
-    //   tmcCourse: "Vuolun-python-mooc-2022",
-    // },
-    // {
-    //   tmcOrganization: "uwasa",
-    //   tmcCourse: "python-2022",
-    // }
+    {
+      tmcOrganization: "haaga-helia",
+      tmcCourse: "python-2022",
+    }
   ],
 }
 
