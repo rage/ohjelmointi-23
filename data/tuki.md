@@ -7,20 +7,18 @@ information_page: true
 
 ### Syksyn ohjausajat
 
-Keväällä 2023 kurssilla järjestetään ohjausta sekä Kumpulan kampuksella että Discordissa. Kampuksella ohjaus järjestetään Exactumin BK107-luokassa. Ohjaus järjestetään alla olevan aikataulun mukaisesti
-
-TODO: update
+Keväällä 2023 kurssilla järjestetään ohjausta alkaen 23.1. sekä Kumpulan kampuksella että Discordissa. Kampuksella ohjaus järjestetään Exactumin BK107-luokassa. Ohjaus järjestetään alla olevan aikataulun mukaisesti
 
 | Aika / Päivä | MA | TI | KE | TO | PE |
 |-----|----|----|----|----|----|
-| 10-11 | - | - | - | - | - |
-| 11-12 | - | - | - | - | - |
+| 10-11 | Paja / Discord | Paja | - | - | Discord |
+| 11-12 | Paja / Discord | Paja | - | - | Discord |
 | 12-13 | - | - | - | - | - |
 | 13-14 | - | - | - | - | - |
-| 14-15 | - | - | - | - | - |
-| 15-16 | - | - | - | - | - |
-| 16-17 | - | - | - | - | - |
-| 17-18 | - | - | - | - | - |
+| 14-15 | - | - | Discord | - | - |
+| 15-16 | - | - | Discord | Paja | - |
+| 16-17 | - | Paja | - | Paja | - |
+| 17-18 | - | Paja | - | - | - |
 
 Taulukossa **Paja** tarkoittaa ohjausta kampuksella, **Discord** pelkkää etäohjausaikaa. Pajaohjauksen aikana saattaa olla apua tarjolla myös Discordissa, jos ohjaajilla on vuorollaan aikaa seurata Discordia.
 
