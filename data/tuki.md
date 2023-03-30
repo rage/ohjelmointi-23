@@ -14,9 +14,9 @@ Keväällä 2023 kurssilla järjestetään ohjausta alkaen 23.1. sekä Kumpulan 
 | 10-11 | Paja / Discord | Paja | - | - | Discord |
 | 11-12 | Paja / Discord | Paja | - | - | Discord |
 | 12-13 | - | - | - | - | - |
-| 13-14 | - | - | - | - | - |
-| 14-15 | - | - | Discord | - | - |
-| 15-16 | - | - | Discord | Paja | - |
+| 13-14 | - | Discord | - | - | - |
+| 14-15 | - | Discord | - | - | - |
+| 15-16 | - | - | - | Paja | - |
 | 16-17 | - | Paja | - | Paja | - |
 | 17-18 | - | Paja | - | - | - |
 
