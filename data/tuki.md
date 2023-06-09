@@ -24,6 +24,10 @@ Taulukossa **Paja** tarkoittaa ohjausta kampuksella, **Discord** pelkkää etäo
 
 *Aikataulu voi muuttua kurssin edetessä.*
 
+**Huom!** Exactimin ovet lukkiutuvat kesällä klo 16.00, joten jos saavut pajaat tulethan ennen tätä kampukselle. Voit olla pajassa vapaasti ajan loppuun kunhan pääset sisään.
+
+**Kampus on suljettu 26.6. - 27.8. Tällöin ohjausta tarjolla vain Discord kanavalla**
+
 #### Discord
 
 Discord on viestintäsovellus, josta saat lisätietoa [täältä](https://discord.com/).
