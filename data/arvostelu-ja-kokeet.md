@@ -10,7 +10,6 @@ Kurssit suoritetaan ratkomalla tehtäviä ja osallistumalla lopuksi kokeeseen.
 
 ### Ohjelmoinnin perusteet koepäivät 2023
 
-* Lauantai 17.6.2023 (Ylimääräinen. Suositellaan suorittamaan heinäkuun tentti, jos ei ole pakottavaa tarvetta osallistua tähän.)
 * Lauantai 1.7.2023
 * Lauantai 5.8.2023
 * Lauantai 21.10.2023
