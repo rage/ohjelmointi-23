@@ -11,22 +11,22 @@ Keväällä 2023 kurssilla järjestetään ohjausta alkaen 23.1. sekä Kumpulan 
 
 | Aika / Päivä | MA | TI | KE | TO | PE |
 |-----|----|----|----|----|----|
-| 10-11 | Paja / Discord | Paja | - | - | Discord |
-| 11-12 | Paja / Discord | Paja | - | - | Discord |
+| 10-11 | Discord | Discord | - | - | Discord |
+| 11-12 | Discord | Discord | - | - | Discord |
 | 12-13 | - | - | - | - | - |
 | 13-14 | - | - | - | - | - |
 | 14-15 | - | - | Discord | - | - |
-| 15-16 | - | - | Discord | Paja | - |
-| 16-17 | - | Paja | - | Paja | - |
-| 17-18 | - | Paja | - | - | - |
+| 15-16 | - | - | Discord | Discord | - |
+| 16-17 | - | Discord | - | Discord | - |
+| 17-18 | - | Discord | - | - | - |
 
 Taulukossa **Paja** tarkoittaa ohjausta kampuksella, **Discord** pelkkää etäohjausaikaa. Pajaohjauksen aikana saattaa olla apua tarjolla myös Discordissa, jos ohjaajilla on vuorollaan aikaa seurata Discordia.
 
 *Aikataulu voi muuttua kurssin edetessä.*
 
-**Huom!** Exactimin ovet lukkiutuvat kesällä klo 16.00, joten jos saavut pajaat tulethan ennen tätä kampukselle. Voit olla pajassa vapaasti ajan loppuun kunhan pääset sisään.
+**Kampus on suljettu 26.6. - 27.8. Tällöin ohjausta tarjolla aikataulun mukaan Discord kanavalla. Lähiohjausta järjestetään sähköposti toiveiden perusteella**
 
-**Kampus on suljettu 26.6. - 27.8. Tällöin ohjausta tarjolla vain Discord kanavalla**
+Mikäli haluat lähiohjausta kampuksen kesätauon aikana, niin lähetä sähköpostia osoitteeseen ohjelmoinnin-mooc@helsinki.fi. Kerro viestissäsi, että haluat lähiohjausta ja mihin aikoihin sinulle sopisi. Pyrimme järjestämään ohjausta toiveiden mukaan.
 
 #### Discord
 
