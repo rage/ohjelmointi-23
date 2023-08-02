@@ -218,6 +218,6 @@ print("Moi kaikki!")
 
 
 
-Kertauskysely tämän osan asioihin liittyen:
+Kertauskysely tämän osion asioihin liittyen:
 
 <quiz id="4d085eeb-fee6-5087-a9b4-6749f4ea4111"></quiz>
