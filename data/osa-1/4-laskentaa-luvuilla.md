@@ -244,7 +244,7 @@ summa += luku
 print(f"Lukujen summa: {summa}")
 ```
 
-Itse asiassa apumuuttujaa `luku` ei välttämättä tarvita ollenkaan. Käyttäjän antamat syötteet voitaisiin lisätätä yksi kerrallaan muuttujaan `summa` myös seuraavasti:
+Itse asiassa apumuuttujaa `luku` ei välttämättä tarvita ollenkaan. Käyttäjän antamat syötteet voitaisiin lisätä yksi kerrallaan muuttujaan `summa` myös seuraavasti:
 
 ```python
 summa = 0
