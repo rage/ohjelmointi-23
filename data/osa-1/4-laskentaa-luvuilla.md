@@ -428,6 +428,6 @@ Vihje2: jos et keksi miten tehtävä ratkeaa, älä huolestu suotta vaan tutustu
 
 </in-browser-programming-exercise>
 
-Kertauskysely tämän osan asioihin liittyen:
+Kertauskysely tämän osion asioihin liittyen:
 
 <quiz id="a9b97b42-4bfe-55aa-a1d4-8f8db058b50a"></quiz>
