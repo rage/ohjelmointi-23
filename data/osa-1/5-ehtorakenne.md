@@ -516,7 +516,7 @@ Juuret ovat 2.0 ja -4.0
 
 </in-browser-programming-exercise>
 
-Kertauskysely tämän osan asioihin liittyen:
+Kertauskysely tämän osion asioihin liittyen:
 
 <quiz id="db5009e5-a4b7-5e82-a297-e2cc36b5b3d3"></quiz>
 
