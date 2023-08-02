@@ -432,6 +432,6 @@ print(5 + 8 - 4)
 
 </in-browser-programming-exercise>
 
-Kertauskysely tämän osan asioihin liittyen:
+Kertauskysely tämän osion asioihin liittyen:
 
 <quiz id="7322e73e-d6c5-5490-af97-ec69c45e720b"></quiz>
