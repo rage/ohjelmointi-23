@@ -249,6 +249,6 @@ Tarinan tulee muuttua sen mukaan, mitkä tiedot käyttäjä antaa.
 
 </in-browser-programming-exercise>
 
-Kertauskysely tämän osan asioihin liittyen:
+Kertauskysely tämän osion asioihin liittyen:
 
 <quiz id="260a58a9-a12e-5a55-835b-26cfac247f57"></quiz>
