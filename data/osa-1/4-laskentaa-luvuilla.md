@@ -287,7 +287,7 @@ tieto = int(input("Mikä on ikäsi? "))
 # ohjelma jatkuu...
 ```
 
-Parempi on siis käyttää molempaa tarkoitusta varten omaa _kuvaavasti nimettyä_ muuttujaa:
+On parempi käyttää näitä kahta eri tarkoitusta varten omia _kuvaavasti nimettyjä_ muuttujia:
 
 ```python
 nimi = input("Mikä on nimesi? ")
