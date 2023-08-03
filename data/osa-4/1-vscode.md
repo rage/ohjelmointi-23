@@ -61,8 +61,7 @@ if "visual studio code" == mjono.lower():
     print("merkkijono oli etsitty!")
 ```
 
-**Huom:** tässä tehtävässä (eikä missään muussakaan tehtävissä missä _ei_ erikseen pyydetä funktioiden toteuttamista) mitään koodia __ei tule sijoittaa__
-`if __name__ == "__main__"`-lohkoon!
+**Huom:** tässä tehtävässä mitään koodia __ei tule sijoittaa__ `if __name__ == "__main__"`-lohkoon! Älä sijoita kyseiseen lohkoon mitään koodia myöskään muissa tehtävissä, ellei sitä _erikseen_ tehtävässä pyydetä.
 
 </programming-exercise>
 
