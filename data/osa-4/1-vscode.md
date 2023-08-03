@@ -68,7 +68,7 @@ if "visual studio code" == mjono.lower():
 
 ## Koodin suorittaminen
 
-Visual Studio Codessa koodi suoritetaan painamalla vihreää kolmiota. Joskus koodisi suoritus voi jää kesken, esimerkiksi odottamaan käyttäjän syötettä tai ikuiseen silmukkaan, ja siirryt jo seuraavaan tehtävään. Kun yrität suorittaa seuraavan tehtävän koodia, tuleekin esille edellisen tehtävän kesken ollut suoritus. Joissain tilanteissa joudut sammuttamaan edellisen suorituksen painamalla yhtä aikaa näppäimiä _Control_+_C_, jotta saat suoritetuksi uuden tehtävän koodin.
+Visual Studio Codessa koodi suoritetaan painamalla vihreää kolmiota. Joskus koodisi suoritus voi jäädä kesken, esimerkiksi odottamaan käyttäjän syötettä tai ikuiseen silmukkaan, vaikka siirryt jo seuraavaan tehtävään. Kun yrität suorittaa seuraavan tehtävän koodia, esille tuleekin edellisen tehtävän kesken ollut suoritus. Näissä tilanteissa voit joutua sammuttamaan edellisen suorituksen painamalla yhtä aikaa näppäimiä _Control_+_C_, jotta saat suoritetuksi uuden tehtävän koodin.
 
 ## Interaktiivinen Python-tulkki
 
