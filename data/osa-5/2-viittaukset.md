@@ -45,7 +45,7 @@ Kuten jo [edellisen osan](/osa-5/1-lisaa-listoja#sisakkaisia-listoja-kayttavan-k
 
 <img src="5_2_1a.png">
 
-Näin ei kuitaan ole todellisuudessa, vaan merkkijonotkin käsitellään Pythonin sisäisissä rakenteissa samaan tapaan kuin listat.
+Näin ei kuitenkaan ole todellisuudessa, vaan merkkijonotkin käsitellään Pythonin sisäisissä rakenteissa samaan tapaan kuin listat.
 
 Monet Pythonin sisäänrakennetut tyypit, kuten `str`, ovat _muuttumattomia_. Tämä tarkoittaa, että olion arvo ei voi koskaan muuttua. Sen sijaan arvo voidaan korvata uudella arvolla:
 
@@ -86,7 +86,7 @@ print(id(a))
 
 Aluksi muuttuja `luku` viittaa paikkaan 4535856912, ja kun muuttujan arvo muuttuu, se alkaa viitata paikkaan 4535856944. Kun muuttujaan `a` sijoitetaan arvo 1, se alkaa viitata samaan paikkaan kuin mihin `luku` viittasi, kun sen arvo oli 1.
 
-Vaikuttaakin siltä, että Python on tallentanut luvun 1 paikkaan 4535856912 ja aina kun jonkin muuttujan arvona on 1, muuttuja _viittaa_ tuohon paikkaan "tietokoneen muistissa".
+Vaikuttaakin siltä, että Python on tallentanut luvun 1 paikkaan 4535856912, ja aina kun jonkin muuttujan arvona on 1, muuttuja _viittaa_ tuohon paikkaan "tietokoneen muistissa".
 
 Vaikka perustietotyypit `int`, `float` ja `bool` ovat viittauksia, ohjelmoijan ei oikeastaan tarvitse välittää asiasta.
 
@@ -320,7 +320,7 @@ def kasvata_kaikkia(lista: list):
     lista[:] = uusilista
 ```
 
-...tai ilman listan kopiontia yksinkertaisesti sijoittamalla uudet arvot heti vanhaan listaan:
+...tai ilman listan kopiointia yksinkertaisesti sijoittamalla uudet arvot heti vanhaan listaan:
 
 ```python
 def kasvata_kaikkia(lista: list):
@@ -334,7 +334,7 @@ def kasvata_kaikkia(lista: list):
 
 Tee funktio `tuplaa_alkiot(luvut: list)`, joka saa parametrikseen lukuja sisältävän listan.
 
-Funktio palauttaa uuden listan, jossa alkuperäisen listan alkiot on kerrottu kahdella. Funkto _ei_ saa muuttaa alkuperäistä listaa.
+Funktio palauttaa uuden listan, jossa alkuperäisen listan alkiot on kerrottu kahdella. Funktio _ei_ saa muuttaa alkuperäistä listaa.
 
 Esimerkki funktion kutsumisesta:
 
