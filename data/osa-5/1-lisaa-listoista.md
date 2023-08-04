@@ -675,7 +675,7 @@ Ensimmäisen funktiokutsun tarkastelema kohdasta 0, 0 alkava neliö on
 0 2 0
 </pre>
 
-Toisen funktiokutsun tarkastelema kohdasta riviltä 1 ja sarakkeesta 2 alkava neliö on
+Toisen funktiokutsun tarkastelema riviltä 1 ja sarakkeesta 2 alkava neliö on
 
 <pre>
 0 2 5
