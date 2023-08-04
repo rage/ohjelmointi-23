@@ -529,7 +529,7 @@ def mediaani(lista: list):
     return jarjestetty[keskikohta]
 ```
 
-Funktio selvittää mediaanin tekemällä parametrinaan saamasta listasta järjestetyn version ja palauttamalla sen keskimmäisen alkion. Huomaa, että käytössä on kokonaislukujakolasku `//`, koska listan indeksin tulee olla kokonaisluku.
+Funktio selvittää mediaanin tekemällä parametrina saamastaan listasta järjestetyn version ja palauttamalla sen keskimmäisen alkion. Huomaa, että käytössä on kokonaislukujakolasku `//`, koska listan indeksin tulee olla kokonaisluku.
 
 Seuraavassa on esimerkki funktion käytöstä:
 
