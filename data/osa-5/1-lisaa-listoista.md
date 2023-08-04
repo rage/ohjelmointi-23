@@ -58,7 +58,7 @@ Pekka
 
 </sample-output>
 
-Samalla tavalla listalle voidaan tallentaa liukulukuja:
+Samalla tavalla listaan voidaan tallentaa liukulukuja:
 
 ```python
 mittaukset = [-2.5, 1.1, 7.5, 14.6, 21.0, 19.2]
@@ -88,7 +88,7 @@ Keskiarvo: 10.15
 
 Kuten olemme nähneet, funktioiden sisällä on mahdollista määritellä muuttujia. Kannattaa myös huomata se, että funktio näkee sen ulkopuolella, eli pääohjelmassa määritellyt muuttujat. Tälläisia muuttujia sanotaan _globaaleiksi_ muuttujiksi.
 
-Globalien muuttujien käyttämistä funktioista käsin ei useimmiten pidetä hyvänä asiana muun muassa siksi, että ne saattavat johtaa ikäviin bugeihin.
+Globaalien muuttujien käyttämistä funktioista käsin ei useimmiten pidetä hyvänä asiana muun muassa siksi, että ne saattavat johtaa ikäviin bugeihin.
 
 Seuraavassa on esimerkki funktiosta, joka käyttää "vahingossa" globaalia muuttujaa:
 
@@ -228,7 +228,7 @@ on = luvut_erisuuret([1, 2, 2])
 print(on)  # tulostuu False
 ```
 
-Nämä kuten oikeastaan kaikki koodia vaivaavat ongelmat selviävät debuggerilla tai [visualisaattorilla](http://www.pythontutor.com/visualize.html#mode=edit), jonka käytön tärkeyttä ei voi olla korostamatta liikaa.
+Nämä, kuten oikeastaan kaikki koodia vaivaavat ongelmat, selviävät debuggerilla tai [visualisaattorilla](http://www.pythontutor.com/visualize.html#mode=edit), jonka käytön tärkeyttä ei voi olla korostamatta liikaa.
 
 <programming-exercise name='Pisin merkkijono' tmcname='osa05-01a_pisin_merkkijono'>
 
@@ -272,7 +272,7 @@ print(lista[1][0])
 
 </sample-output>
 
-Mihin voimme käyttää listoja jonka sisällä on listoja?
+Mihin voimme käyttää listaa, jonka sisällä on listoja?
 
 Voisimme esimerkiksi esittää henkilön tiedot listana, jossa ensimmäisenä alkiona on henkilön nimi, toisena ikä ja kolmantena kengännumero:
 
@@ -280,7 +280,7 @@ Voisimme esimerkiksi esittää henkilön tiedot listana, jossa ensimmäisenä al
 ["Anu", 10, 26]
 ```
 
-Vastaavasti joukko henkilöitä on lista, joka sisältää yksittäisiä henkilöä kuvaavia listoja:
+Vastaavasti joukko henkilöitä on lista, joka sisältää yksittäisiä henkilöitä kuvaavia listoja:
 
 ```python
 henkilot = [["Anu", 10, 26], ["Petteri", 7, 22], ["Emilia", 32, 37], ["Antti", 39, 44]]
@@ -387,7 +387,7 @@ Jos sisäkkäisiä listoja käsittelevät ohjelmat tuntuvat hankalalta ymmärtä
 
 <img src="5_1_0a.png">
 
-Kuten kuva paljastaa, 3x3-matriisi koostuu teknisesti ottaen neljästä listasta. Ensimmäinen lista edustaa koko matriisia ja sen alkioina on erillisiä rivejä edustavat listat.
+Kuten kuva paljastaa, 3x3-matriisi koostuu teknisesti ottaen neljästä listasta. Ensimmäinen lista edustaa koko matriisia ja sen alkioina ovat erillisiä rivejä edustavat listat.
 
 Kuva havainnollistaa jo sitä seikkaa, josta puhumme tarkemmin [seuraavassa osassa](/osa-5/2-viittaukset): moniulotteisessa listassa listat eivät ole todellisuudessa sisäkkäin, vaan matriisia edustava lista "viittaa" jokaista riviä edustavaan listaan.
 
@@ -557,7 +557,7 @@ Tulostus näyttää seuraavalta:
 
 ```
 
-Vastaavalla tavalla on mahdollista kuvata moni tuttu peli (esim. shakki, miinaharava, laivan upotus, mastermind, ...) matriisina. Pelistä riippuu, mikä on sopiva tapa "koodata" pelin tilanne matriisiin.
+Vastaavalla tavalla on mahdollista kuvata moni tuttu peli (esim. shakki, miinaharava, laivanupotus, mastermind, ...) matriisina. Pelistä riippuu, mikä on sopiva tapa "koodata" pelin tilanne matriisiin.
 
 <programming-exercise name='Go' tmcname='osa05-02_go'>
 
@@ -692,7 +692,7 @@ Tämä neliö on siis sellainen, jota oikeassa sudokussa ei tarkasteltaisi.
 Tee funktio `sudoku_oikein(sudoku: list)`, joka saa parametriksi sudokuruudukkoa esittävän kaksiulotteisen taulukon. Funktio kertoo käyttäen edellisen kolmen tehtävän funktioita (kopioi ne tämän tehtävän koodin joukkoon), onko parametrina saatu ruudukko täytetty oikein, eli sen jokainen rivi, jokainen sarake sekä kaikki erilliset 3x3-neliöt sisältävät korkeintaan kertaalleen jokaisen luvuista 1–9.
 
 Huom: ylempänä olevaan sudokuruudukkoa esittävään kuvaan on merkitty ne 3x3-neliöt, joita sudokua ratkaistessa tulee tarkastella.
-Nämä ovat siis kohdista (0, 0), (0, 3), (0, 6), (3, 0), (3, 3), (3, 6), (6, 0), (6, 3) ja (6, 6) alkavat yhdeksän neliöä.
+Nämä ovat siis kohdista (0, 0), (0, 3), (0, 6), (3, 0), (3, 3), (3, 6), (6, 0), (6, 3) ja (6, 6) alkavat yhdeksän neliötä.
 
 ```python
 sudoku1 = [
