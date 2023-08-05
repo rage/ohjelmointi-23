@@ -404,7 +404,7 @@ Kannattaa tutustua huolella esimerkkikoodiin. Se voi ensisilmäyksellä vaikutta
 
 ## Eroon turhista riveistä, välilyönneistä ja rivinvaihdoista
 
-Olemme tallentaneet Excelistä nimiä taulukon CSV-muodossa:
+Olemme tallentaneet Excelistä nimiä CSV-muodossa:
 
 ```sh
 etunimi; sukunimi
