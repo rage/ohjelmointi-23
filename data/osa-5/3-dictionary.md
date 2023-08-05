@@ -74,7 +74,7 @@ Sanaa ei löytynyt
 
 ## Mitä sanakirjassa voi olla?
 
-Vaikka tietorakenteen nimi on sanakirja, siinä ei ole usein sanakirjaa vaan jotain muuta tietoa. Esimerkiksi seuraavassa sanakirjassa avaimet ovat merkkijonoja ja arvot ovat kokonaislukuja:
+Vaikka tietorakenteen nimi on sanakirja, siinä ei yleensä ole sanakirjaa vaan jotain muuta tietoa. Esimerkiksi seuraavassa sanakirjassa avaimet ovat merkkijonoja ja arvot ovat kokonaislukuja:
 
 ```python
 tulokset = {}
