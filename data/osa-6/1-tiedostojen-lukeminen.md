@@ -383,7 +383,7 @@ print(arvosanat)
 
 </sample-output>
 
-Tämän jälkeen voimme vaikkapa tulostaa analyysin arvosanoista käymällä läpi sanakirjan `arvosanat` perusteella:
+Tämän jälkeen voimme vaikkapa tulostaa analyysin arvosanoista käymällä läpi sanakirjan `arvosanat`:
 
 ```python
 for nimi, lista in arvosanat.items():
