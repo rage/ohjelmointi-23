@@ -42,9 +42,9 @@ Kun lopetat debuggaamisen, muista poistaa koodista komento `breakpoint()`!
 
 ## Moduulin käyttäminen
 
-Python-kieli sisältää itsessään joukon valmiita funktioita, esimerkiksi merkkijonojen ja listojen pituuden kertovan funktion `len` sekä alkioiden summan laskevan funktion `sum`. Python-kielen _standardikirjasto_ on kokoelma monenlaisia hyödyllisiä funktioita ja olioita joiden avulla kielen "ilmaisuvoimaa" on helppo laajentaa. Olemme jo käyttäneet muutamassa tehtävässä standardikirjastosta eräitä matemaattisia operaatioita tarjoavia funktioita esim. neliöjuurten laskemisessa.
+Python-kieli sisältää itsessään joukon valmiita funktioita, esimerkiksi merkkijonojen ja listojen pituuden kertovan funktion `len` sekä alkioiden summan laskevan funktion `sum`. Python-kielen _standardikirjasto_ on kokoelma monenlaisia hyödyllisiä funktioita ja olioita, joiden avulla kielen "ilmaisuvoimaa" on helppo laajentaa. Olemme jo käyttäneet muutamassa tehtävässä standardikirjastosta eräitä matemaattisia operaatioita tarjoavia funktioita esim. neliöjuurten laskemisessa.
 
-Standardikirjasto muodostuu _moduuleista_, joihin on ryhmitelty eri aiheisiin liittyviä funktioita ja luokkia. Tutustumme tässä osassa joihinkin hyödyllisiin moduuleihin ja opimme myös tekemään moduulin itse.
+Standardikirjasto muodostuu _moduuleista_, joihin on ryhmitelty eri aiheisiin liittyviä funktioita ja luokkia. Tutustumme tässä osiossa joihinkin hyödyllisiin moduuleihin, ja opimme myös tekemään moduulin itse.
 
 Komento `import` ottaa käyttöön halutun moduulin. Tarkastellaan esimerkkinä moduulia `math`, jossa on matemaattisia funktioita. Seuraava koodi laskee luvun neliöjuuren funktiolla `sqrt` ja logaritmin funktiolla `log`
 
@@ -132,9 +132,9 @@ Funktio antaa listan nimistä, jotka moduuli määrittelee:
 
 Moduulissa [string](https://docs.python.org/3/library/string.html) on merkkijonovakioita, jotka määrittelevät tiettyjä merkkiryhmiä (esim. pienet kirjaimet ja välimerkit). Tutustu näihin vakioihin ja kirjoita niitä käyttäen funktio `jaa_merkkeihin(merkkijono: str)`, joka saa parametrikseen merkkijonon. Funktio palauttaa tuplen, jossa parametrina saadun merkkijonon merkit on jaettu kolmeen eri merkkijonoon:
 
-* Ensimmäisessä jonossa on kaikki pienet ja suuret englanninkieliset kirjaimet (vakio `ascii_letters`)
-* Toisessa jonossa on kaikki vakiossa `punctuation` määritellyt välimerkit
-* Kolmannessa jonossa on kaikki merkit (mukaan lukien esim. välilyönnit), jotka eivät kuulu kahteen edelliseen ryhmään
+* Ensimmäisessä jonossa ovat kaikki pienet ja suuret englanninkieliset kirjaimet (vakio `ascii_letters`)
+* Toisessa jonossa ovat kaikki vakiossa `punctuation` määritellyt välimerkit
+* Kolmannessa jonossa ovat kaikki merkit (mukaan lukien esim. välilyönnit), jotka eivät kuulu kahteen edelliseen ryhmään
 
 Merkit tulee tallentaa palautettuihin merkkijonoihin siinä järjestyksessä kuin ne esiintyvät alkuperäisessä merkkijonossa.
 
