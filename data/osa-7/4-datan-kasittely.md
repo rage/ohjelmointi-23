@@ -184,7 +184,7 @@ Ihmisille tarkoitetut sivut tosin eivät tulostu kovin selkeinä, mutta internet
 
 Osoitteesta <https://studies.cs.helsinki.fi/stats-mock/api/courses> löytyy JSON-muodossa muutaman laitoksen verkkokurssin perustiedot.
 
-Tee funktio `hae_kaikki()` joka hakee ja palauttaa kaikkien menossa olevien kurssien (kentän `enabled` arvona `True`) tiedot listana tupleja. Paluuarvon muoto on seuraava:
+Tee funktio `hae_kaikki()`, joka hakee ja palauttaa kaikkien menossa olevien kurssien (kentän `enabled` arvona `True`) tiedot listana tupleja. Paluuarvon muoto on seuraava:
 
 <sample-output>
 
@@ -259,7 +259,7 @@ def hae_kaikki():
 
 #### yhden kurssin tiedot
 
-Kunkin kurssin JSON-muotoinen tehtävästatistiikka löytyy omasta osoitteesta, joka saadaan vaihtamalla kurssin kenttä `name` seuraavassa tähtien paikalle <https://studies.cs.helsinki.fi/stats-mock/api/courses/****/stats>
+Kunkin kurssin JSON-muotoinen tehtävästatistiikka löytyy omasta osoitteestaan, joka saadaan vaihtamalla kurssin kenttä `name` seuraavassa tähtien paikalle <https://studies.cs.helsinki.fi/stats-mock/api/courses/****/stats>
 
 Esimerkiksi kurssin `docker2019` tiedot ovat osoitteessa <https://studies.cs.helsinki.fi/stats-mock/api/courses/docker2019/stats>
 
@@ -286,9 +286,9 @@ Sanakirjaan tallennetut arvot määrittyvät seuraavasti:
 
 - `viikkoja`: kurssia vastaavan JSON-olioiden määrä
 - `opiskelijoita` viikkojen opiskelijamäärien maksimi
-- `tunteja`: kakkien viikkojen tuntimäärien (`hour_total`) summa
+- `tunteja`: kaikkien viikkojen tuntimäärien (`hour_total`) summa
 - `tunteja_keskimaarin`: edellinen jaettuna opiskelijamäärällä (kokonaislukuna pyöristettynä alaspäin)
-- `tehtavia`: kakkien viikkojen tehtävämäärien (`exercise_total`) summa
+- `tehtavia`: kaikkien viikkojen tehtävämäärien (`exercise_total`) summa
 - `tehtavia_keskimaarin`: edellinen jaettuna opiskelijamäärällä (kokonaislukuna pyöristettynä alaspäin)
 
 *Huom*: Samat huomiot pätevät tähän osaan kuin edelliseen!
@@ -333,7 +333,7 @@ Tehtävät on numeroitu 1–8 ja jokaisesta tehtävästä voi saada 0–6 pistet
 
 Palautetussa sanakirjassa tunnus on avain ja tehtävien yhteispistemäärä arvo.
 
-Vinkki: sisäkkäiset sanakirjat (dict) ovat mainio työkalua tallennettaessa eri opiskelijoiden pisteitä ja aikoja.
+Vinkki: sisäkkäiset sanakirjat (dict) ovat mainio työkalu tallennettaessa eri opiskelijoiden pisteitä ja aikoja.
 
 </programming-exercise>
 
@@ -351,7 +351,7 @@ Standardikirjaston lisäksi verkosta löytyy lukuisia vapaasti käytettäviä ki
 
 Teemme tässä tehtävässä hieman parannellun version edellisen osan tehtävästä Spellchecker.
 
-Edellisen osan version tapaan ohjelma pyytää käyttäjää kirjoittamaan rivin englanninkielistä tekstiä. Ohjelma suorittaa tekstille oikeinkirjoitustarkistuksen ja tulostaa saman tekstin siten, että kaikki väärin kirjoitetut sanat on ympäröity tähdillä. _Tämän lisäksi ohjelma antaa listan korjausehdotuksia väärin kirjotettuihin sanoihin._
+Edellisen osan version tapaan ohjelma pyytää käyttäjää kirjoittamaan rivin englanninkielistä tekstiä. Ohjelma suorittaa tekstille oikeinkirjoitustarkistuksen ja tulostaa saman tekstin siten, että kaikki väärin kirjoitetut sanat on ympäröity tähdillä. _Tämän lisäksi ohjelma antaa listan korjausehdotuksia väärin kirjoitettuihin sanoihin._
 
 Seuraavassa kaksi käyttöesimerkkiä:
 
