@@ -273,7 +273,7 @@ Tehtäväpohjan mukana tulee valmis luokka `Kiipeilyreitti`, jota käytetään s
 
 ```python
 reitti1 = Kiipeilyreitti("Kantti", 38, "6A+")
-reitti2 = Kiipeilyreitti("Smooth operator", 9, "7A")
+reitti2 = Kiipeilyreitti("Smooth operator", 11, "7A")
 reitti3 = Kiipeilyreitti("Syncro", 14, "8C+")
 
 
@@ -285,7 +285,7 @@ print(reitti3.nimi, reitti3.pituus, reitti3.grade)
 <sample-output>
 
 Kantti, pituus 38 metriä, grade 6A+
-Smooth operator, pituus 9 metriä, grade 7A
+Smooth operator, pituus 11 metriä, grade 7A
 Syncro 14 8C+
 
 </sample-output>
@@ -313,7 +313,7 @@ for reitti in pituuden_mukaan(reitit):
 Kantti, pituus 38 metriä, grade 6A+
 Syncro, pituus 14 metriä, grade 8C+
 Pieniä askelia, pituus 12 metriä, grade 6A+
-Smooth operator, pituus 9 metriä, grade 7A
+Smooth operator, pituus 11 metriä, grade 7A
 
 </sample-output>
 
