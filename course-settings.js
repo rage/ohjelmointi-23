@@ -15,7 +15,11 @@ const courseSettings = {
     {
       tmcOrganization: "haaga-helia",
       tmcCourse: "python-2022",
-    }
+    },
+    {
+      tmcOrganization: "laurea",
+      tmcCourse: "laurea-python-syksy-2023"
+    },
   ],
 }
 
