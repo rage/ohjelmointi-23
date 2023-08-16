@@ -165,7 +165,6 @@ appelsiini 2 kpl
 omena 3 kpl
 banaani 12 kpl
 vesimeloni 22 kpl
-
 </sample-output>
 
 </programming-exercise>
@@ -187,7 +186,6 @@ for sarja in jarjesta_tuotantokausien_mukaan(sarjat):
 Dexter 9 tuotantokautta
 Friends 10 tuotantokautta
 Simpsons 32 tuotantokautta
-
 </sample-output>
 
 </programming-exercise>
@@ -209,7 +207,6 @@ IMDB:n mukainen pistemäärä
 Friends 8.9
 Simpsons 8.7
 Dexter 8.6
-
 </sample-output>
 
 </programming-exercise>
@@ -264,7 +261,7 @@ Maija (m321), 210 op.
 Pisteiden mukaan:
 Anna (a999), 131 op.
 Maija (m321), 210 op.
-Aapeli (a123), 220 op
+Aapeli (a123), 220 op.
 
 </sample-output>
 
