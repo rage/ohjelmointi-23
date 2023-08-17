@@ -165,7 +165,6 @@ appelsiini 2 kpl
 omena 3 kpl
 banaani 12 kpl
 vesimeloni 22 kpl
-
 </sample-output>
 
 </programming-exercise>
@@ -187,7 +186,6 @@ for sarja in jarjesta_tuotantokausien_mukaan(sarjat):
 Dexter 9 tuotantokautta
 Friends 10 tuotantokautta
 Simpsons 32 tuotantokautta
-
 </sample-output>
 
 </programming-exercise>
@@ -209,7 +207,6 @@ IMDB:n mukainen pistemäärä
 Friends 8.9
 Simpsons 8.7
 Dexter 8.6
-
 </sample-output>
 
 </programming-exercise>
@@ -264,7 +261,7 @@ Maija (m321), 210 op.
 Pisteiden mukaan:
 Anna (a999), 131 op.
 Maija (m321), 210 op.
-Aapeli (a123), 220 op
+Aapeli (a123), 220 op.
 
 </sample-output>
 
@@ -276,7 +273,7 @@ Tehtäväpohjan mukana tulee valmis luokka `Kiipeilyreitti`, jota käytetään s
 
 ```python
 reitti1 = Kiipeilyreitti("Kantti", 38, "6A+")
-reitti2 = Kiipeilyreitti("Smooth operator", 9, "7A")
+reitti2 = Kiipeilyreitti("Smooth operator", 11, "7A")
 reitti3 = Kiipeilyreitti("Syncro", 14, "8C+")
 
 
@@ -288,7 +285,7 @@ print(reitti3.nimi, reitti3.pituus, reitti3.grade)
 <sample-output>
 
 Kantti, pituus 38 metriä, grade 6A+
-Smooth operator, pituus 9 metriä, grade 7A
+Smooth operator, pituus 11 metriä, grade 7A
 Syncro 14 8C+
 
 </sample-output>
@@ -316,7 +313,7 @@ for reitti in pituuden_mukaan(reitit):
 Kantti, pituus 38 metriä, grade 6A+
 Syncro, pituus 14 metriä, grade 8C+
 Pieniä askelia, pituus 12 metriä, grade 6A+
-Smooth operator, pituus 9 metriä, grade 7A
+Smooth operator, pituus 11 metriä, grade 7A
 
 </sample-output>
 

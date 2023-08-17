@@ -15,7 +15,35 @@ const courseSettings = {
     {
       tmcOrganization: "haaga-helia",
       tmcCourse: "python-2022",
-    }
+    },
+    {
+      tmcOrganization: "laurea",
+      tmcCourse: "laurea-python-syksy-2023"
+    },
+    {
+      tmcOrganization: "hbc",
+      tmcCourse: "hbc-kyber23AL"
+    },
+    {
+      tmcOrganization: "hbc",
+      tmcCourse: "hbc-python-KYBER23B"
+    },
+    {
+      tmcOrganization: "hbc",
+      tmcCourse: "hbc-python-PELI23AL"
+    },
+    {
+      tmcOrganization: "hbc",
+      tmcCourse: "hbc-python-PELI23B"
+    },
+    {
+      tmcOrganization: "hbc",
+      tmcCourse: "hbc-python-WEB23A"
+    },
+    {
+      tmcOrganization: "hbc",
+      tmcCourse: "hbc-python-WEB23B"
+    },
   ],
 }
 
