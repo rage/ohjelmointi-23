@@ -277,7 +277,7 @@ def avaa_tili(nimi: str):
     uusi_tili =  Pankkitili(0, nimi)
     return uusi_tili
 
-# funktio asettaa parametrina saamansa rahasumman parametrina olevalle tilille
+# funktio lisää parametrina saamansa rahasumman parametrina olevalle tilille
 def laita_rahaa_tilille(tili: Pankkitili, summa: int):
     tili.saldo += summa
 
