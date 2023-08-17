@@ -378,11 +378,11 @@ class Bonuskortti:
 
 Kirjoita luokka `Henkilo`, jolla on _ainoastaan yksi attribuutti_ `nimi`, joka asetetaan konstruktorissa.
 
-Lisäksi luokalle tule kirjoitaa kaksi metodia:
+Lisäksi luokalle tule kirjoittaa kaksi metodia:
 
 Metodi `anna_etunimi` palauttaa henkilön etunimen ja metodi `anna_sukunimi` vastaavasti henkilön sukunimen.
 
-Voit olettaa metodeissa, että konstruktroissa annetussa nimessä on etu- ja sukunimi välilyönnillä erotettuna eikä muita nimiä.
+Voit olettaa metodeissa, että konstruktorissa annetussa nimessä on etu- ja sukunimi välilyönnillä erotettuna eikä muita nimiä.
 
 Esimerkki luokan käytöstä:
 
