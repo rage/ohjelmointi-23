@@ -86,7 +86,7 @@ Useimmissa muissa ohjelmointikielissä on olioiden lisäksi ns. perustyyppisiä 
 
 ## Oliot ja metodit
 
-Olioiden tietosisältöä voidaaan havainnoida ja muuttaa _metodien_ avulla. Metodi on funktio, jonka toiminta kohdistuu annettuun olioon. Metodin erottaa muista funktioista tapa, jolla sitä kutsutaan: ensin kirjoitetaan kohdeolio ja sen perään kutsuttava metodi pisteellä erotettuna. Esimerkiksi sanakirja-olion kaikki arvot voidaan palauttaa metodin `values` avulla:
+Olioiden tietosisältöä voidaan havainnoida ja muuttaa _metodien_ avulla. Metodi on funktio, jonka toiminta kohdistuu annettuun olioon. Metodin erottaa muista funktioista tapa, jolla sitä kutsutaan: ensin kirjoitetaan kohdeolio ja sen perään kutsuttava metodi pisteellä erotettuna. Esimerkiksi sanakirja-olion kaikki arvot voidaan palauttaa metodin `values` avulla:
 
 ```python
 # muodostetaan sanakirjatyyppinen kirjaolio
