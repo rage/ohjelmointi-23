@@ -83,7 +83,7 @@ suorakulmio = Suorakulmio((1, 1), (4, 3))
 print(suorakulmio)
 ```
 
-Ohjelma tulostaa jotain seuraavankaltaista:
+Ohjelma tulostaa jotain seuraavan kaltaista:
 
 <sample-output>
 
