@@ -264,7 +264,7 @@ Maito
 Myös seuraava onnistuu:
 
 ```python
-# kauppalistalla tuotteet on indeksöity ykkösestä alkaen
+# kauppalistalla tuotteet on indeksoitu ykkösestä alkaen
 for i in range(1, kauppalista.tuotteita()+1):
     tuote = kauppalista.tuote(i)
     maara = kauppalista.maara(i)
