@@ -312,7 +312,7 @@ Rekisteriotteen oikeellisuuden voi tarkistaa kutsumalla metodia (esimerkiksi `Re
 Kirjoita luokka `ListaApuri`, jossa on seuraavat kaksi luokkametodia:
 
 * Metodi `suurin_frekvenssi(lista: list)` palauttaa alkion, jota esiintyy annetussa listassa eniten
-* Metodi `tuplia(lista: list)` palauttaa sellaisten alkioden lukumäärän, jotka esiintyvät listassa vähintään kahdesti
+* Metodi `tuplia(lista: list)` palauttaa sellaisten alkioiden lukumäärän, jotka esiintyvät listassa vähintään kahdesti
 
 Metodeja tulee voida käyttää ilman, että luokasta luodaan oliota. Esimerkki luokan käytöstä:
 
