@@ -78,7 +78,7 @@ class Pankkikortti:
         self.nimi = nimi
 ```
 
-Piilotettu attribuutti ei näy asiakkaalle, vaan siihen viittaaminen aiheutta virheilmoituksen. Niinpä nimen voi tulostaa ja sitä voi muuttaa:
+Piilotettu attribuutti ei näy asiakkaalle, vaan siihen viittaaminen aiheuttaa virheilmoituksen. Niinpä nimen voi tulostaa ja sitä voi muuttaa:
 
 ```python
 kortti = Pankkikortti("123456","Reijo Rahakas")
@@ -155,7 +155,7 @@ Saldoa ei voi suoraan muuttaa, koska attribuutti on piilotettu, mutta sitä voi 
 
 <programming-exercise name='Auto' tmcname='osa09-09_auto'>
 
-Toteuta luokka `Auto`, jossa on _kapseloituina attribuutteina_ tieto bensatankin sisällöstä (0-60 litraa) sekä ajetuista kilometreista. Auto kuluttaa litran bensaa kilometrillä.
+Toteuta luokka `Auto`, jossa on _kapseloituina attribuutteina_ tieto bensatankin sisällöstä (0-60 litraa) sekä ajetuista kilometreistä. Auto kuluttaa litran bensaa kilometrillä.
 
 Luokalla on seuraavat metodit:
 
@@ -419,8 +419,8 @@ Yhteensä 3 merkintää
 
 Kirjoita luokka `Havaintoasema`, johon voidaan tallentaa säähavaintoja. Luokalla on seuraavat julkiset piirteet:
 
-* konstruktori, joka saa parametriksen aseman nimen
-* metodi `lisaa_havainto(havainto: str)`, joka lisää havainnon listan peräään
+* konstruktori, joka saa parametrikseen aseman nimen
+* metodi `lisaa_havainto(havainto: str)`, joka lisää havainnon listan perään
 * metodi `viimeisin_havainto()`, joka palauttaa viimeksi lisätyn havainnon. Jos havaintoja ei ole tehty, metodi palauttaa _tyhjän merkkijonon_.
 * metodi `havaintojen_maara()`, joka palauttaa havaintojen yhteismäärän
 * metodi `__str__`, joka palauttaa aseman nimen ja havaintojen yhteismäärän alla olevan esimerkin mukaisessa muodossa.
