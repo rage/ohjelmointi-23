@@ -24,7 +24,7 @@ Taulukossa **Paja** tarkoittaa ohjausta kampuksella, **Discord** pelkkää etäo
 
 *Aikataulu voi muuttua kurssin edetessä.*
 
-**Kampus on suljettu 26.6. - 27.8. Tällöin ohjausta tarjolla aikataulun mukaan Discord kanavalla. Lähiohjausta järjestetään sähköposti toiveiden perusteella**
+**Viralliset ohjausajat ovat tauolla 21.-25. elokuuta. Tällä viikolla tarjolla vain vertaistukea Discordissa**
 
 Mikäli haluat lähiohjausta kampuksen kesätauon aikana, niin lähetä sähköpostia osoitteeseen ohjelmoinnin-mooc@helsinki.fi. Kerro viestissäsi, että haluat lähiohjausta ja mihin aikoihin sinulle sopisi. Pyrimme järjestämään ohjausta toiveiden mukaan.
 
