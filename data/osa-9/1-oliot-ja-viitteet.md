@@ -934,7 +934,7 @@ class Henkilo:
 
 <programming-exercise name='Asuntovertailu' tmcname='osa09-05_asuntovertailu'>
 
-Asuntovälitystoimiston tietojärjestelmässä kuvataan myynnissä olevaa asuntoa seuraavasta luokasta tehdyillä olioilla:
+Asuntovälitystoimiston tietojärjestelmässä kuvataan myynnissä olevia asuntoja seuraavasta luokasta tehdyillä olioilla:
 
 ```python
 class Asunto:
