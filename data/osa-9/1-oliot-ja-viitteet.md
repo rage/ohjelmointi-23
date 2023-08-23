@@ -13,7 +13,7 @@ Tämän osion jälkeen
 
 </text-box>
 
-Pythonissa kaikki arvot ovat olioita ja myös omista luokista luotuja olioita voi käsitellä kuin mitä tahansa muitakin olioita. Esimerkiksi olioita voidaan tallentaa listaan:
+Pythonissa kaikki arvot ovat olioita, ja myös omista luokista luotuja olioita voi käsitellä kuin mitä tahansa muitakin olioita. Esimerkiksi olioita voidaan tallentaa listaan:
 
 ```python
 from datetime import date
