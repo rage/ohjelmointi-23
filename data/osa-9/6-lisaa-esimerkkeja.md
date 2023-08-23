@@ -107,7 +107,7 @@ Jos parametrille on annettu oletusarvo, sille ei ole pakko antaa arvoa kutsuttae
 
 Oletusarvot ovat usein hyödyllisiä konstruktoreissa: jos on oletettavaa, ettei tiettyä tietoa ole aina olemassa oliota luodessa, on parempi antaa sille vakioarvo konstruktorissa kuin jättää tämä asiakkaan huoleksi. Tämä on asiakkaalle helpompaa ja myös ylläpitää olion sisäistä eheyttä, kun voidaan esimerkiksi olla varmoja, että "tyhjä" arvo on aina samanlainen (muuten se voisi olla esimerkiksi merkkijono `""`, arvo `None` tai merkkijono `"ei asetettu"`).
 
-Tarkastellaan esimerkkinä luokkaa, joka mallintaa opiskelijaa. Pakollisia kenttiä luodessa ovat opiskelijanumero ja nimi ja näistä opiskelijanumeroa ei pysty myöhemmin muuttamaan. Opintopisteet ja muistiinpanot voi halutessaan antaa oliota luodessa, mutta niille on myös asetettu oletusarvot. Luokan toiminta on kommentoitu suoraan ohjelmakoodin yhteyteen.
+Tarkastellaan esimerkkinä luokkaa, joka mallintaa opiskelijaa. Pakollisia kenttiä uutta opiskelijaa luodessa ovat opiskelijanumero ja nimi, ja näistä opiskelijanumeroa ei pysty myöhemmin muuttamaan. Opintopisteet ja muistiinpanot voi halutessaan antaa oliota luodessa, mutta niille on myös asetettu oletusarvot. Luokan toiminta on kommentoitu suoraan ohjelmakoodin yhteyteen.
 
 ```python
 class Opiskelija:
