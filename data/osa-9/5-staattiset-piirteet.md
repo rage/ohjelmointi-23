@@ -305,7 +305,7 @@ Tämä on validi tunnus!
 
 </sample-output>
 
-Rekisteriotteen oikeellisuuden voi tarkistaa kutsumalla metodia (esimerkiksi `Rekisteriote.rekisteritunnus_kelpaa("xyz-789"))`) ilman, että muodostaa luokasta oliota. Samaa metodia kutsutaan myös uutta oliota muodostaessa luokan konstruktorista. Huomaa kuitenkin, että myös tässä kutsussa viitataan metodiin luokan nimen avulla eikä `self`-tunnisteella!
+Rekisteriotteen oikeellisuuden voi tarkistaa kutsumalla metodia (esimerkiksi `Rekisteriote.rekisteritunnus_kelpaa("xyz-789"))`) ilman, että muodostaa luokasta oliota. Samaa metodia kutsutaan myös luokan konstruktorista muodostettaessa uutta oliota. Huomaa kuitenkin, että myös tässä kutsussa viitataan metodiin luokan nimen avulla eikä `self`-tunnisteella!
 
 <programming-exercise name='Lista-apuri' tmcname='osa09-14_lista_apuri'>
 
