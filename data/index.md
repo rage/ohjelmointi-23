@@ -38,11 +38,14 @@ Kurssi on auki vuoden 2023 loppuun asti. Tehtäviä voi tehdä omaan tahtiin sii
 
 ## Luennot
 
-Syksyn 2022 luentotallenteet löytyvät alta. Seuraavat liveluennot pidetään syksyllä 2023.
+Liveluentoja voi seurata maanantaisin 4.9.2023 alkaen [Zoomin kautta](https://helsinki.zoom.us/j/68982308202?pwd=dFBGak1rUTlUUmZXKzJwOUkzcTUzUT09)
+
+Syksyn 2022 luentotallenteet löytyvät alta.
 
 ## Luentotallenteet
 
-Tallenteiden asiasisältö on tätä kurssia vastaava, mutta tallenteilta mahdollisesti löytyvät huomautukset esimerkiksi tenttipäivämääriin tms. liittyen _eivät välttämättä pidä paikkaansa_!
+Tallenteiden asiasisältö on tätä kurssia vastaava, mutta vuoden 2022 tallenteilta mahdollisesti löytyvät huomautukset esimerkiksi tenttipäivämääriin tms. liittyen _eivät välttämättä pidä paikkaansa_!
+Tallenteet päivitetään uusiin sitä mukaa, kun liveluentoja pidetään.
 
 Osa    | Luentotallenne
 -------|---------------
