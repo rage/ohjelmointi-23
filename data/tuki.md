@@ -11,22 +11,20 @@ Keväällä 2023 kurssilla järjestetään ohjausta alkaen 23.1. sekä Kumpulan 
 
 | Aika / Päivä | MA | TI | KE | TO | PE |
 |-----|----|----|----|----|----|
-| 10-11 | Discord | Discord | - | - | Discord |
-| 11-12 | Discord | Discord | - | - | Discord |
-| 12-13 | - | - | - | - | - |
+| 10-11 | Paja | Paja | - | - | - |
+| 11-12 | Paja | Paja | - | Paja | - |
+| 12-13 | - | - | - | Paja | - |
 | 13-14 | - | - | - | - | - |
-| 14-15 | - | - | Discord | - | - |
-| 15-16 | - | - | Discord | Discord | - |
-| 16-17 | - | Discord | - | Discord | - |
-| 17-18 | - | Discord | - | - | - |
+| 14-15 | Paja | - | Discord | - | - |
+| 15-16 | Paja | - | Discord | - | - |
+| 16-17 | - | - | - | - | Discord |
+| 17-18 | - | - | - | - | Discord |
 
 Taulukossa **Paja** tarkoittaa ohjausta kampuksella, **Discord** pelkkää etäohjausaikaa. Pajaohjauksen aikana saattaa olla apua tarjolla myös Discordissa, jos ohjaajilla on vuorollaan aikaa seurata Discordia.
 
 *Aikataulu voi muuttua kurssin edetessä.*
 
-**Virallinen ohjaus tauolla 4.9. - 8.9. Syksyn viralliset ohjausajat alkavat 11.9.**
-
-Mikäli haluat lähiohjausta kampuksen kesätauon aikana, niin lähetä sähköpostia osoitteeseen ohjelmoinnin-mooc@helsinki.fi. Kerro viestissäsi, että haluat lähiohjausta ja mihin aikoihin sinulle sopisi. Pyrimme järjestämään ohjausta toiveiden mukaan.
+**Syksyn ohjausajat alkavat 11.9.**
 
 #### Discord
 
