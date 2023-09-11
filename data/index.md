@@ -50,7 +50,7 @@ Tallenteet päivitetään uusiin sitä mukaa, kun liveluentoja pidetään.
 Osa    | Luentotallenne
 -------|---------------
 Osa 1  | [Avausluento 2023, 4.9.2023](https://youtu.be/D747XGyM3Ys)
-Osa 2  | [Lentotallenne, osa 1 (2021)](https://youtu.be/udsxAy_EwGk) <br> [Lentotallenne, osa 2 (2021)](https://youtu.be/e_6WKe5Sezs)
+Osa 2  | [Lentotallenne, 11.9.2023](https://youtu.be/CGBUjc_ZbfE)
 Osa 3  | [Luentotallenne (2022)](https://youtu.be/vxYbK85EBBY)
 Osa 4  | [Luentotallenne (2022)](https://youtu.be/SDpPlH8GUWw)
 Osa 5  | [Luentotallenne (2022)](https://youtu.be/Ehk01BPa5JM)
