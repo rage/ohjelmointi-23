@@ -44,6 +44,10 @@ const courseSettings = {
       tmcOrganization: "hbc",
       tmcCourse: "hbc-python-WEB23B"
     },
+    {
+      tmcOrganization: "uwasa",
+      tmcCourse: "python-2023"
+    },
   ],
 }
 
