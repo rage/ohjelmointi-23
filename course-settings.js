@@ -48,6 +48,10 @@ const courseSettings = {
       tmcOrganization: "uwasa",
       tmcCourse: "python-2023"
     },
+    {
+      tmcOrganization: "laurea",
+      tmcCourse: "OhjelmointiPerusSyksy2023PythonKKAH"
+    },
   ],
 }
 
