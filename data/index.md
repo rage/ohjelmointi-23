@@ -52,7 +52,7 @@ Osa    | Luentotallenne
 Osa 1  | [Luentotallenne, 04.09.2023](https://youtu.be/D747XGyM3Ys)
 Osa 2  | [Luentotallenne, 11.09.2023](https://youtu.be/CGBUjc_ZbfE)
 Osa 3  | [Luentotallenne, 18.09.2023](https://youtu.be/MXdj96x2sdo)
-Osa 4  | [Luentotallenne (2022)](https://youtu.be/SDpPlH8GUWw)
+Osa 4  | [Luentotallenne, 25.09.2023](https://youtu.be/W8D7xonW-Ss)
 Osa 5  | [Luentotallenne (2022)](https://youtu.be/Ehk01BPa5JM)
 Osa 6  | [Luentotallenne (2021)](https://youtu.be/h0Ekh_iszHE)
 Osa 7  | [Luentotallenne (2021)](https://youtu.be/35UE8I657pE)
