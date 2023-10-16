@@ -12,11 +12,14 @@ Kurssit suoritetaan ratkomalla tehtäviä ja osallistumalla lopuksi kokeeseen.
 
 * Lauantai 21.10.2023
 * Lauantai 25.11.2023
+* Lauantai 13.01.2024
 
 ### Ohjelmoinnin jatkokurssi koepäivät 2023
 
 * Lauantai 28.10.2023
-* Torstai 16.12.2023
+* Lauantai 16.12.2023
+* Lauantai 20.01.2024
+* Lauantai 24.02.2024
 
 ## Tenttiin osallistuminen
 
