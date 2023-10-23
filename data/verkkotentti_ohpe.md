@@ -3,7 +3,7 @@ path: "/verkkotentti-ohpe"
 title: "Ohjelmoinnin perusteiden verkkotentti 21.10."
 information_page: true
 sidebar_priority: 2900
-hide_in_sidebar: false
+hide_in_sidebar: true
 ---
 
 <!--# Ohjelmoinnin perusteet-->
@@ -67,7 +67,7 @@ hide_in_sidebar: false
 
 #### Tentin lopetus
 
-* Ennen lopettamista palauta kaikki tehtävät vielä kertaalleen tenttiajan sisällä.
+* Ennen lopettamista varmista vielä, että olet muistanut palauttaa tehtävät serverille.
 * Voit tarkistaa  lähettämiesi tehtävien saapumisen palvelimelle kirjautumalla sivulle [https://tmc.mooc.fi/org/hy/courses/1290](https://tmc.mooc.fi/org/hy/courses/1290). Tehtävän palautus on saapunut palvelimelle, jos näet tehtävän tehtäväpohjan nimen ja kellonajan, jolloin palautit tehtävän.
 * Voit sulkea tenttitehtävä-sivun kun olet valmis. Muita toimenpiteitä ei vaadita.
 
