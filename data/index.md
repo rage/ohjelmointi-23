@@ -38,7 +38,9 @@ Kurssi on auki vuoden 2023 loppuun asti. Tehtäviä voi tehdä omaan tahtiin sii
 
 ## Luennot
 
-Liveluentoja voi seurata maanantaisin 4.9.2023 alkaen [Zoomin kautta](https://helsinki.zoom.us/j/68982308202?pwd=dFBGak1rUTlUUmZXKzJwOUkzcTUzUT09)
+Liveluentoja voi seurata maanantaisin klo 14.15 4.9.2023 alkaen [Zoomin kautta](https://helsinki.zoom.us/j/69849285795?pwd=WHIvOTJ2UmNLVG1ocTYvREx5THZPQT09) (Huom! Päivitetty jatkokurssin linkki!)
+
+Huomaa, että maanantaina 6.11.2023 ei ole luentoa - korvaava luento pidetään perjantaina 3.11. klo 14.15 samassa Zoom-osoitteessa.
 
 Luentotallenteet päivitetään alla olevaan taulukkoon sitä mukaa kun luentoja pidetään. Muille osille löytyy vanhempi tallenne.
 
