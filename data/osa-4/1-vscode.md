@@ -74,7 +74,7 @@ Visual Studio Codessa koodi suoritetaan painamalla vihreää kolmiota. Joskus ko
 
 Emme ole toistaiseksi puhuneet kurssilla sanallakaan eräästä Python-ohjelmoinnin tärkeimmästä työkalusta, interaktiivisesta komentotulkista.
 
-Komentotulkki käynnistyy antamalla komentoriviltä komento `python3` (joissain tapauksissa, esim. Windowsilla komento saattaa olla `python`). Esim. Macilla komentotulkin avaaminen näyttää seuraavalta:
+Komentotulkki käynnistyy antamalla komentoriviltä komento `python3` (joissain tapauksissa, esim. Windowsilla, komento saattaa olla `python`). Esim. Macilla komentotulkin avaaminen näyttää seuraavalta:
 
 <img src="4_1_1.png">
 
