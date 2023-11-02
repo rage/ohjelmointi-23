@@ -183,7 +183,7 @@ ZeroDivisionError: integer division or modulo by zero on line 3
 
 Ongelma on siis siinä, että nollalla jakaminen ei ole sallittua ja se keskeyttää ohjelman suorituksen.
 
-Suoritusaikaiseen virheeseen johtavat bugit ovat usein helpohkoja korjata, sillä bugin aiheuttama rivi selviää virheilmoituksesta. Toki bugin varsinainen syy on usein muualla kuin virheilmoituksen aiheuttaneessa rivissä.
+Suoritusaikaiseen virheeseen johtavat bugit ovat usein helpohkoja korjata, sillä virheen aiheuttava rivi selviää virheilmoituksesta. Tosin virheen varsinainen syy eli bugi on usein muualla kuin virheilmoituksen aiheuttaneessa rivissä.
 
 Joskus bugi taas ilmenee siten, että koodin tuottama tulos on virheellinen. Tälläisten bugien havaitseminen ja niiden syyn paikallistaminen voi olla haastavaa. Kurssin tehtävissä testit paljastavat usein juuri tämän kategorian bugeja. Ennen kuin ongelma päästään korjaamaan, on bugi paikallistettava.
 
