@@ -256,7 +256,7 @@ if paiva == "sunnnuntai":
 print(f"Palkka {palkka} euroa")
 ```
 
-Kun ohjelma nyt suoritetaan, ei debug-tulostuksia jostain syystä näy ollenkaan. Vaikuttaa siltä, että ohjelman suoritus ei edes mene if-haaraan. Komennon ehdossa täytyy siis olla jokin ongelma. Ehdon arvokin voidaan tulostaa koodista:
+Kun ohjelma nyt suoritetaan, ei debug-tulostuksia jostain syystä näy ollenkaan. Vaikuttaa siltä, että ohjelman suoritus ei edes mene if-haaraan. Komennon ehdossa täytyy siis olla jokin ongelma. Myös ehdon arvo voidaan tulostaa:
 
 ```python
 # ...
