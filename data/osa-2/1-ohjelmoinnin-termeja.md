@@ -271,7 +271,7 @@ if paiva == "sunnnuntai":
 print(f"Palkka {palkka} euroa")
 ```
 
-Ja tosiaan kun koodi suoritetaan, ehdon arvo on `False` eli koodi hyppää if-lohkon ohi:
+Ja tosiaan, kun koodi suoritetaan, ehdon arvo on `False` eli koodi hyppää if-lohkon ohi:
 
 <sample-output>
 
