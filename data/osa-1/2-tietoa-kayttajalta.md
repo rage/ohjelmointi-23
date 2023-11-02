@@ -46,7 +46,7 @@ Ohjelmassa esiintyvä sana `nimi` on _muuttuja_. Muuttujalla tarkoitetaan ohjelm
 
 <text-box variant="hint" name="Muuttujan nimen valinta">
 
-Muuttujat voi periaatteesssa ohjelmissa nimetä vapaasti, tiettyjä Python-kielen asettamia rajoituksia noudattaen.
+Muuttujat voi periaatteessa ohjelmissa nimetä vapaasti, tiettyjä Python-kielen asettamia rajoituksia noudattaen.
 
 Tällä kurssilla muuttujat ja muut vastaavat ohjelmien osat nimetään suomeksi.
 Ohjelmoinnissa käytetään kuitenkin yleisesti kielenä englantia – jos etsit Googlen avulla ohjelmointiesimerkkejä, kielenä on usein englanti.
