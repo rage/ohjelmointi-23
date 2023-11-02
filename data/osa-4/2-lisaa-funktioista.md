@@ -157,7 +157,7 @@ Tee funktio `risulaatikko`, joka piirtää risuaitamerkkiä käyttäen parametri
 
 Funktion tulee kutsua edellisen tehtävän funktiota `viiva` kaiken tulostuksen tekemiseen! Kopioi edellisen tehtävän funktion koodi tämän tehtävän funktion koodin yläpuolelle. Älä muuta funktiota mitenkään!
 
-Pari käyttöesimerkkiä
+Pari käyttöesimerkkiä:
 
 ```python
 risulaatikko(5)
@@ -188,7 +188,7 @@ Tee funktio `risunelio`, joka piirtää risuaitamerkkiä käyttäen parametrinsa
 
 Funktion tulee kutsua edellisen tehtävän funktiota `viiva` kaiken tulostuksen tekemiseen! Kopioi edellisen tehtävän funktion koodi tämän tehtävän funktion koodin yläpuolelle. Älä muuta funktiota mitenkaan!
 
-Pari käyttöesimerkkiä
+Pari käyttöesimerkkiä:
 
 ```python
 risunelio(5)
@@ -220,7 +220,7 @@ Tee funktio `nelio`, joka saa kaksi parametria. Funktio tulostaa neliön jonka k
 
 Funktion tulee kutsua edellisen tehtävän funktiota `viiva` kaiken tulostuksen tekemiseen! Kopioi edellisen tehtävän funktion koodi tämän tehtävän funktion koodin yläpuolelle. Älä muuta funktiota mitenkaan!
 
-Pari käyttöesimerkkiä
+Pari käyttöesimerkkiä:
 
 ```python
 nelio(5, "*")
@@ -252,7 +252,7 @@ Tee funktio `kolmio`, joka piirtää risuaitamerkkiä käyttäen parametrinsa ko
 
 Funktion tulee kutsua edellisen tehtävän funktiota `viiva` kaiken tulostuksen tekemiseen! Kopioi edellisen tehtävän funktion koodi tämän tehtävän funktion koodin yläpuolelle. Älä muuta funktiota mitenkaan!
 
-Pari käyttöesimerkkiä
+Pari käyttöesimerkkiä:
 
 ```python
 kolmio(6)
@@ -285,7 +285,7 @@ Tee funktio `kuvio`, joka saa neljä parametria. Funktio tulostaa kuvion, jonka 
 
 Funktion tulee kutsua edellisen tehtävän funktiota `viiva` kaiken tulostuksen tekemiseen! Kopioi edellisen tehtävän funktion koodi tämän tehtävän funktion koodin yläpuolelle.
 
-Pari käyttöesimerkkiä
+Pari käyttöesimerkkiä:
 
 ```python
 kuvio(5, "X", 3, "*")
