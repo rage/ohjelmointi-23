@@ -306,7 +306,7 @@ Palkka 276.0 euroa
 
 </sample-output>
 
-Koska `tuntipalkka = 23.0` ja `tunnit = 12`, vaikuttaa muuttujassa `palkka` olevan oikea arvo aluksi, mutta kasvatuskomento ei kuitenkaan kasvata muuttujan arvoa. Komento on siis mitä ilmeisemmin virheellinen. Ja toden totta, komento
+Koska `tuntipalkka = 23.0` ja `tunnit = 12`, vaikuttaa muuttujassa `palkka` olevan oikea arvo aluksi, mutta kasvatuskomento ei kuitenkaan kasvata muuttujan arvoa. Komento on siis mitä ilmeisimmin virheellinen. Ja toden totta, komento
 
 ```python
 palkka * 2
