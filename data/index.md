@@ -62,6 +62,6 @@ Osa 8  | [Luentotallenne, 30.10.2023](https://youtu.be/t2hzBwBRE7Q)
 Osa 9  | [Luentotallenne, 03.11.2023](https://youtu.be/jVxnPyf769Y)
 Osa 10 | [Luentotallenne, 13.11.2023](https://youtu.be/5AdWw8qD4ns)
 Osa 11 | [Luentotallenne, 20.11.2023](https://youtu.be/pupTIw6ZZ4o)
-Osa 12 | [Luentotallenne (2021)](https://youtu.be/sfhFTHy-ANU)
+Osa 12 | [Luentotallenne, 27.11.2023](https://youtu.be/Eti9wBaLIws)
 Osa 13 | Ei tallennetta
 Osa 14 | Ei tallennetta
