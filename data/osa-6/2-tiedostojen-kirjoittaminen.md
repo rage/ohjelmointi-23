@@ -515,7 +515,7 @@ Ohjelma siis ainoastaan kyselee tiedostojen nimet ja varsinaiset tulokset tallen
 
 Tehtäväpohjasta löytyy tiedosto `sanat.txt`, joka sisältää englanninkielisiä sanoja.
 
-Tehtäväsi on kirjoittaa funktio `hae_sanat(hakusana: str)`, joka palauttaa listana annetun hakusanan mukaiset sanat tiedostosta.
+Tehtäväsi on kirjoittaa funktio `hae_sanat(hakusana: str)`, joka palauttaa listan, jonka alkoina ovat annetun hakusanan mukaiset sanat tiedostosta.
 
 Hakusanassa voi käyttää pienten kirjainten lisäksi seuraavia erikoismerkkejä:
 
