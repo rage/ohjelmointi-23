@@ -207,7 +207,7 @@ Jokainen tuple siis sisältää seuraavat arvot:
 - harjoitusten (`exercises`) yhteenlaskettu määrä
 
 
-*Huom*: Tämän tehtävän testien toimivuuden osalta on oleellista, että haet tiedot funktiolla `urllib.request.urlopen`.
+*Huom*: Tämän tehtävän testien toimivuuden osalta on oleellista, että haet tiedot funktiolla `urllib.request.urlopen`. Älä hae pelkkää `urlopen`-osaa `from`-komennon avulla.
 
 *Huom2:* Testeissä käytetään myös ovelaa kikkaa, joka hieman muuttaa internetistä tulevaa dataa ja tämän avulla varmistaa, että et huijaa tehtävässäsi palauttamalla "kovakoodattua" dataa.
 
