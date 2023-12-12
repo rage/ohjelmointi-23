@@ -324,7 +324,7 @@ with open("henkilot.csv") as tiedosto:
     print("vanhin on", vanhin)
 ```
 
-Yleensä aina on kuitenkin parasta lukea tiedosto vain kerran ja tallentaa se muotoon, jota ohjelman toiminnallisuudet pystyvät hyödyntämään:
+Yleensä on kuitenkin parasta lukea tiedosto vain kerran ja tallentaa se muotoon, jota ohjelman toiminnallisuudet pystyvät hyödyntämään:
 
 ```python
 henkilot = []
