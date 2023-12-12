@@ -99,11 +99,11 @@ Rivien yhteispituus: 63
 
 </sample-output>
 
-Huomaa, että rivien läpikäynnissä jokaisen rivin perässä on rivinvaihto `\n`. Yllä oleva koodi kuitenkin poistaa rivinvaihdot `replace`-funktiolla, joka korvaa rivinvaihdot tyhjillä merkkijonoilla. Tämän ansiosta tulostukseen ei tule ylimääräisiä rivivaihtoja ja ohjelma laskee oikein tiedoston rivien yhteispituuden.
+Huomaa, että rivien läpikäynnissä jokaisen rivin perässä on rivinvaihto `\n`. Yllä oleva koodi kuitenkin poistaa rivinvaihdot `replace`-funktiolla, joka korvaa rivinvaihdot tyhjillä merkkijonoilla. Tämän ansiosta tulostukseen ei tule ylimääräisiä rivinvaihtoja ja ohjelma laskee oikein tiedoston rivien yhteispituuden.
 
 <programming-exercise name='Suurin luku' tmcname='osa06-01_suurin_luku'>
 
-Tiedostoon `luvut.txt` on tallennettu lukuja, yksi luku per rivi seuraavan esimerkin mukaisesti:
+Tiedostoon `luvut.txt` on tallennettu lukuja, yksi luku per rivi, seuraavan esimerkin mukaisesti:
 
 ```sh
 2
@@ -132,7 +132,7 @@ Jos VS Code ei löydä tiedostoa suorittaessasi koodia (vihreää nappia painama
 * Valitse välilehti _Workspace_
 * Laita raksi kohtaan _Python_ -> _Terminal_ -> _Execute In File Dir_
 
-Oikein tehtynä asetus näyttää suunilleen seuraavalta:
+Oikein tehtynä asetus näyttää suunnilleen seuraavalta:
 
 <img src="6_1_1.png">
 
@@ -150,9 +150,9 @@ Jos yrität käyttää VS Coden [debuggeria](/osa-4/1-vscode#debuggeri) tiedosto
 
 <img src="6_1_4.png">
 
-Syynä tälle on se, että debuggeri etsii tiedostoja tehtäväkansion juuresta eikä edes _Execute In File Dir_ -asetus ei asiaa muuta. Helpoin ratkaisu ongelmaan on edellisessä luvussa kuvattu testaukseen käytetyn tiedoston kopioiminen  tehtävähakemiston juureen.
+Syynä tälle on se, että debuggeri etsii tiedostoja tehtäväkansion juuresta eikä edes _Execute In File Dir_ -asetus muuta asiaa. Helpoin ratkaisu ongelmaan on edellisessä luvussa kuvattu testaukseen käytetyn tiedoston kopioiminen  tehtävähakemiston juureen.
 
-Kun olet kopioinut tiedostot tehtävähakemiston juureen, joudut ehkä vielä käynnistämään visual studio coden uudelleen jotta kaikki toimisi.
+Kun olet kopioinut tiedostot tehtävähakemiston juureen, joudut ehkä vielä käynnistämään VS Coden uudelleen, jotta kaikki toimisi.
 
 ## CSV-tiedoston lukeminen
 
@@ -494,7 +494,7 @@ hetu;nimi;osoite;kaupunki
 010499-345K;Leevi Hellas;Tapiolantie 11 B;02000 Espoo
 ```
 
-Työntekijöiden palkat taas ovat talletettu omaan tiedostoonsa `palkat.csv`
+Työntekijöiden palkat taas on talletettu omaan tiedostoonsa `palkat.csv`
 
 ```csv
 hetu;palkka;bonus
@@ -516,7 +516,7 @@ Arto Vihavainen  2500 euroa
 
 </sample-output>
 
-Ohjelma käyttää aputietorakenteena kahta saankirjaa `nimet` ja `palkat`, joissa molemmissa avaimena toimii henkilötunnus:
+Ohjelma käyttää aputietorakenteena kahta sanakirjaa `nimet` ja `palkat`, joissa molemmissa avaimena toimii henkilötunnus:
 
 ```python
 nimet = {}
@@ -547,7 +547,7 @@ for hetu, nimi in nimet.items():
         print(f"{nimi:16} 0 euroa")
 ```
 
-Ohjelma siis muodostaa ensin sanakirjat `nimet` ja `palkat`, joiden sisältö näyttää seuraavilta:
+Ohjelma siis muodostaa ensin sanakirjat `nimet` ja `palkat`, joiden sisällöt näyttävät tältä:
 
 ```sh
 {
@@ -637,7 +637,7 @@ Kun koodi on kunnossa, voi ehtorakenteen poistaa.
 **Huom:** tässä tehtävässä (eikä missään muussakaan tehtävissä missä _ei_ erikseen pyydetä funktioiden toteuttamista) mitään koodia __ei tule sijoittaa__
 `if __name__ == "__main__"`-lohkoon!
 
-**Toinen huomio** Jos VS Code ei löydä tiedostoa vaikka olet tarkastanut tiedoston nimen kirjoitusasun, voit [täällä](/osa-6/1-tiedostojen-lukeminen#mita-jos-vs-code-ei-loyda-tiedostoja-koodia-suoritettaessa) kokeilla olevaa ohjetta.
+**Toinen huomio** Jos VS Code ei löydä tiedostoa vaikka olet tarkastanut tiedoston nimen kirjoitusasun, voit kokeilla [täällä](/osa-6/1-tiedostojen-lukeminen#mita-jos-vs-code-ei-loyda-tiedostoja-koodia-suoritettaessa) olevaa ohjetta.
 
 </programming-exercise>
 
@@ -779,7 +779,7 @@ Ohjelma tunnistaa oikein kirjoitetut sanat käyttämällä tehtäväpohjassa ole
 **Huom:** tässä tehtävässä (eikä missään muussakaan tehtävissä missä _ei_ erikseen pyydetä funktioiden toteuttamista) mitään koodia __ei tule sijoittaa__
 `if __name__ == "__main__"`-lohkoon!
 
-**Toinen huomio** Jos VS Code ei löydä tiedostoa vaikka olet tarkastanut tiedoston nimen kirjoitusasun, voit [täällä](/osa-6/1-tiedostojen-lukeminen#mita-jos-vs-code-ei-loyda-tiedostoja-koodia-suoritettaessa) kokeilla olevaa ohjetta.
+**Toinen huomio** Jos VS Code ei löydä tiedostoa vaikka olet tarkastanut tiedoston nimen kirjoitusasun, voit kokeilla [täällä](/osa-6/1-tiedostojen-lukeminen#mita-jos-vs-code-ei-loyda-tiedostoja-koodia-suoritettaessa) olevaa ohjetta.
 
 
 </programming-exercise>
@@ -851,7 +851,7 @@ Pullataikina
 
 Huomaa, että hakusanojen kirjainten koolla ei ole merkitystä, eli hakusana _pulla_ löytää myös reseptin _Pullataikina_, joka alkaa isolla kirjaimella.
 
-**Huom!** Jos VS Code ei löydä tiedostoa vaikka olet tarkastanut tiedoston nimen kirjoitusasun, voit [täällä](/osa-6/1-tiedostojen-lukeminen#mita-jos-vs-code-ei-loyda-tiedostoja-koodia-suoritettaessa) kokeilla olevaa ohjetta.
+**Huom!** Jos VS Code ei löydä tiedostoa vaikka olet tarkastanut tiedoston nimen kirjoitusasun, voit kokeilla [täällä](/osa-6/1-tiedostojen-lukeminen#mita-jos-vs-code-ei-loyda-tiedostoja-koodia-suoritettaessa) olevaa ohjetta.
 
 
 #### reseptien hakeminen valmistusajan perusteella
@@ -960,7 +960,7 @@ print(e)
 
 </sample-output>
 
-**Huom!** Jos VS Code ei löydä tiedostoa vaikka olet tarkastanut tiedoston nimen kirjoitusasun, voit [täällä](/osa-6/1-tiedostojen-lukeminen#mita-jos-vs-code-ei-loyda-tiedostoja-koodia-suoritettaessa) kokeilla olevaa ohjetta.
+**Huom!** Jos VS Code ei löydä tiedostoa vaikka olet tarkastanut tiedoston nimen kirjoitusasun, voit kokeilla [täällä](/osa-6/1-tiedostojen-lukeminen#mita-jos-vs-code-ei-loyda-tiedostoja-koodia-suoritettaessa) olevaa ohjetta.
 
 #### pisin välimatka
 
