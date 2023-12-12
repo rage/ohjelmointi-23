@@ -61,7 +61,7 @@ Moi kaikki!Toinen riviViimeinen rivi
 
 </sample-data>
 
-Tulostukset saadaan omille riveilleen lisäämällä rivien loppuun rivivaihtomerkki `\n`:
+Tulostukset saadaan omille riveilleen lisäämällä rivien loppuun rivinvaihtomerkki `\n`:
 
 ```python
 with open("uusi_tiedosto.txt", "w") as tiedosto:
@@ -133,7 +133,7 @@ Ja taas yksi.
 
 Tiedon lisääminen tiedostoon on kuitenkin suhteellisen harvoin tarvittava operaatio.
 
-Tiedostoon lisäämisen sijaan on usein yksinkertaisinta kirjoittaa tiedosto kokonaan uudelleen. Näin joudutaan useimmiten tekemään jos esimerkiksi tiedoston sisältö muuttuu keskeltä tiedostoa.
+Tiedostoon lisäämisen sijaan on usein yksinkertaisinta kirjoittaa tiedosto kokonaan uudelleen. Näin joudutaan useimmiten tekemään, jos esimerkiksi tiedoston sisältö muuttuu keskeltä tiedostoa.
 
 <programming-exercise name='Päiväkirja' tmcname='osa06-11_paivakirja'>
 
@@ -256,7 +256,7 @@ with open("tyhjennettava_tiedosto.txt", "w") as tiedosto:
 
 Nyt `with`-lohkossa on ainoastaan komento `pass`, joka ei tee mitään. Komento tarvitaan, sillä Python ei salli sellaisia lohkoja missä ei ole mitään komentoja.
 
-Tiedoston tyhjennys on mahdollista tehdä myös ilman `with`-lohkokon käyttöä:
+Tiedoston tyhjennys on mahdollista tehdä myös ilman `with`-lohkon käyttöä:
 
 ```python
 open('tyhjennettava_tiedosto.txt', 'w').close()
@@ -273,14 +273,14 @@ import os
 os.remove("tarpeeton_tiedosto.csv")
 ```
 
-Tämä ei kuitenkaan teknisten rajoitteiden takia toimi palvelimella suoritettavissa testeissä, joten käytä ylläolevia tapoja jos joudut tehtävissä tyhjentämään tiedoston.
+Tämä ei kuitenkaan teknisten rajoitteiden takia toimi palvelimella suoritettavissa testeissä, joten käytä ylläolevia tapoja, jos joudut tehtävissä tyhjentämään tiedoston.
 
 </text-box>
 
 
 <programming-exercise name='Aineiston suodatus' tmcname='osa06-12_aineiston_suodatus'>
 
-Tiedostossa laskut.csv on tehtävien ratkaisuja seuraavan esimerkin mukaisesti:
+Tiedostossa `laskut.csv` on tehtävien ratkaisuja seuraavan esimerkin mukaisesti:
 
 ```csv
 Arto;2+5;7
@@ -291,7 +291,7 @@ Pekka;5+5;10
 ...jne...
 ```
 
-Jokaisella rivin muoto on siis `oppilaan_nimi;lasku;lopputulos`. Laskut ovat kaikki esimerkin mukaisesti joko yhteen- tai vähennyslaskuja, ja kaikissa on kaksi operandia.
+Jokaisen rivin muoto on siis `oppilaan_nimi;lasku;lopputulos`. Laskut ovat kaikki esimerkin mukaisesti joko yhteen- tai vähennyslaskuja, ja kaikissa on kaksi operandia.
 
 Kirjoita funktio `suodata_laskut()`, joka
 
@@ -301,7 +301,7 @@ Kirjoita funktio `suodata_laskut()`, joka
 
 Edellisestä esimerkistä tiedostoon `oikeat.csv` olisi siis kirjoitettu rivit
 
-```sh
+```csv
 Arto;2+5;7
 Pekka;3-2;1
 Pekka;5+5;10
@@ -311,13 +311,13 @@ Kaksi muuta riviä olisi kirjoitettu tiedostoon `vaarat.csv`.
 
 Kirjoita rivit samassa järjestyksessä kuin ne esiintyvät alkuperäisessä tiedostossa. Älä muuta alkuperäistä tiedostoa.
 
-*Huomaa* että funktion tulee toimia oikein siinäkin tapauksessa että funktiota kutsutaan monta kertaa perkkäin. Eli riippumatta siitä suoritatko funktion vain kerran
+**Huomaa** että funktion tulee toimia oikein siinäkin tapauksessa, että funktiota kutsutaan monta kertaa peräkkäin. Eli riippumatta siitä suoritatko funktion vain kerran
 
 ```python
 suodata_laskut()
 ```
 
-tai useita kertoja peräkkän
+tai useita kertoja peräkkäin
 
 ```python
 suodata_laskut()
@@ -338,13 +338,17 @@ Kirjoita funktio `tallenna_henkilo(henkilo: tuple)` joka saa parametrikseen henk
 * Ikä (kokonaisluku)
 * Pituus (liukuluku)
 
-Tallenna henkilön tiedot tiedostoon `henkilot.csv` olemassa olevien tietojen perään. Tiedot tulee tallentaa muodosssa
+Tallenna henkilön tiedot tiedostoon `henkilot.csv` olemassa olevien tietojen perään. Tiedot tulee tallentaa muodossa
 
+```csv
 nimi;ikä;pituus
+```
 
 eli yhden henkilön tiedot tulevat yhdelle riville. Jos funktiota esim. kutsuttaisiin parametrien arvoilla `("Kimmo Kimmonen", 37, 175.5)`, ohjelma kirjoittaisi tiedoston loppuun rivin
 
-`Kimmo Kimmonen;37;175.5`
+```csv
+Kimmo Kimmonen;37;175.5
+```
 
 </programming-exercise>
 
@@ -403,7 +407,7 @@ def tallenna_tulokset(tiedostonimi, viikkopisteet):
             tiedosto.write(f"{nimi};{summa};{arvosana(summa)}\n")
 ```
 
-Itse "pääohjelma" on nyt hyvin yksinkertainen. Huomaa, että luettavan ja kirjoitettavan tiedoston nimet annetaan funktioille parametrina:
+Itse "pääohjelma" on nyt hyvin yksinkertainen. Huomaa, että luettavan ja kirjoitettavan tiedoston nimet annetaan funktioille parametreina:
 
 ```python
 viikkopisteet = lue_viikkopisteet("viikkopisteet.csv")
@@ -421,7 +425,7 @@ Emilia;41;5
 
 </sample-data>
 
-Huomaa, miten ohjelma on koostettu suhteellisen yksinkertaisista, vain yhteen asiaan keskittyvistä funktioista. Tämä on yleisesti ottaen suositeltava tapa ohjelmoinnissa, se helpottaa ohjelman toiminnallisuuden varmistamista sekä myöhemmin ohjelmaan tehtävien muutosten sekä laajennusten tekemistä.
+Huomaa, miten ohjelma on koostettu suhteellisen yksinkertaisista, vain yhteen asiaan keskittyvistä funktioista. Tämä on yleisesti ottaen suositeltava tapa ohjelmoinnissa, se helpottaa ohjelman toiminnallisuuden varmistamista sekä myöhemmin ohjelmaan tehtävien muutosten ja laajennusten tekemistä.
 
 Jos esimerkiksi haluaisimme ohjelmaan toiminnallisuuden, joka tulostaa yhden opiskelijan arvosanan, olisi toiminnallisuus helppo koostaa käyttäen apuna jo valmiina olevaa arvosanan laskevaa funktiota:
 
@@ -447,9 +451,9 @@ Jos ohjelmasta halutaan muuttaa tai korjata "yhtä asiaa", esimerkiksi arvosanoj
 
 <programming-exercise name='Kurssin tulokset, osa 4' tmcname='osa06-14_kurssin_tulokset_osa4'>
 
-Laajennetaan vielä hieman aiemmin kurssien tulokset generoivaa sovellusta.
+Laajennetaan vielä hieman aiempaa kurssien tulokset generoivaa sovellusta.
 
-Tällä hetkellä tiedostosta luetaan opiskelijoiden nimet, tehtäväpisteet sekä koepisteet. Laajennetaan ohjelmaa siten, että myös kurssin nimi ja laajuus luetaan tiedostosta, jonka muoto on seuraava (tiedosto on kirjoitettu ilman ääkkösiä, jotta se ei aiheuttaisi ongelmia Windowsissa):
+Tällä hetkellä tiedostosta luetaan opiskelijoiden nimet, tehtäväpisteet sekä koepisteet. Laajennetaan ohjelmaa siten, että myös kurssin nimi ja laajuus luetaan tiedostosta, jonka muoto on seuraava (tiedoston sisältö on kirjoitettu ilman ääkkösiä, jotta se ei aiheuttaisi ongelmia Windowsissa):
 
 <sample-data>
 
@@ -529,7 +533,7 @@ Sanat ovat tiedostossa kokonaan pienillä kirjaimilla kirjoitettuna. Voit myös 
 
 Jos yhtään tulosta ei löydy, funktio palauttaa tyhjän listan.
 
-Vinkki: Pythonin merkkijonometodeista startswith() ja endswith() saattaa olla hyötyä tehtävässä, googlaa niiden toiminta tarvittaessa tarkemmin!
+Vinkki: Pythonin merkkijonometodeista `startswith` ja `endswith` saattaa olla hyötyä tehtävässä, googlaa niiden toiminta tarvittaessa tarkemmin!
 
 Esimerkki funktion kutsumisesta:
 
