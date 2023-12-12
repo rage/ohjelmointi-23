@@ -24,6 +24,8 @@ Taulukossa **Paja** tarkoittaa ohjausta kampuksella, **Discord** pelkkää etäo
 
 *Aikataulu voi muuttua kurssin edetessä.*
 
+**Ohjaustoiminta on joulutauolla 18.12.2023 - 12.1.2024**
+
 #### Discord
 
 Discord on viestintäsovellus, josta saat lisätietoa [täältä](https://discord.com/).
