@@ -284,7 +284,7 @@ Kun kutsutaan `hae_kurssi("docker2019")`, funktio palauttaa sanakirjan, jonka si
 
 Sanakirjaan tallennetut arvot määrittyvät seuraavasti:
 
-- `viikkoja`: kurssia vastaavan JSON-olioiden määrä
+- `viikkoja`: kurssia vastaavien JSON-olioiden määrä
 - `opiskelijoita` viikkojen opiskelijamäärien maksimi
 - `tunteja`: kakkien viikkojen tuntimäärien (`hour_total`) summa
 - `tunteja_keskimaarin`: edellinen jaettuna opiskelijamäärällä (kokonaislukuna pyöristettynä alaspäin)
