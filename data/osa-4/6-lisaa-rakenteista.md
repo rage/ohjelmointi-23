@@ -388,9 +388,9 @@ print(pisin_naapurijono(lista))
 
 Tämän osan huipentaa ensimmäinen hieman laajempi ohjelma, jota tehdessäsi pääset soveltamaan kaikkea tähän asti opeteltua.
 
-Sääntö numero yksi isompaa tai oikeastaan mitä tahansa ohjelmaa tehdessä on se, että ei kannata yrittää ratkaista kaikkia ongelmia yhtä aikaa. Ohjelma kannattaa rakentaa pienistä paloista kuten sopivista apufunktioista, ja kunkin palan toimivuus kannattaa varmistaa ennen kun alkaa rakentaa seuraavaa palaa. Jos näin ei tee, on aika varmaa että edessä on suuri kaaos.
+Sääntö numero yksi isompaa tai oikeastaan mitä tahansa ohjelmaa tehdessä on se, että ei kannata yrittää ratkaista kaikkia ongelmia yhtä aikaa. Ohjelma kannattaa rakentaa pienistä paloista kuten sopivista apufunktioista, ja kunkin palan toimivuus kannattaa varmistaa ennen kun alkaa rakentaa seuraavaa palaa. Jos näin ei tee, on aika varmaa, että edessä on suuri kaaos.
 
-Isompaa ohjelmaa rakentaessa on järkevää testailla ohjelman funktioita aluksi erillään pääohjelmasta. Yksi helppo tapa on tehdä myös pääohjelmasta oma funktio, esimerkiksi nimeltään `main`, jonka ohjelman funktioiden ulkopuoleinen osa käynnistää. Esimerkiksi seuraavaa tehtävää voitaisiin ruveta lähestymään näin:
+Isompaa ohjelmaa rakennettaessa on järkevää testailla ohjelman funktioita aluksi erillään pääohjelmasta. Yksi helppo tapa on tehdä myös pääohjelmasta oma funktio, esimerkiksi nimeltään `main`, jonka ohjelman funktioiden ulkopuoleinen osa käynnistää. Esimerkiksi seuraavaa tehtävää voitaisiin ruveta lähestymään näin:
 
 ```python
 def main():
@@ -473,7 +473,7 @@ Lukuja yhteensä 5, keskiarvo 11.6, pienin -53 ja suurin 99
 
 </sample-output>
 
-Perusperiaatteena ohjelmassa on se, että pääohjelma "tallentaa" ohjelman käsittelemän tiedon eli tässä tapauksessa käyttäjän syöttämät luvut muuttujassa `syotteet`.
+Perusperiaatteena ohjelmassa on se, että pääohjelma "tallentaa" ohjelman käsittelemän tiedon, eli tässä tapauksessa käyttäjän syöttämät luvut muuttujassa `syotteet`.
 
 Jos lukuja on tarve käsitellä jossain funktiossa, ne välitetään sinne parametrina. Näin tapahtuu funktioissa `tulosta` ja `analysoi`. Jos taas funktio tuottaa tietoa, jota muut ohjelman osat tarvitsevat, palauttaa funktio datan `return`-komennolla. Näin tekevät käyttäjän syötteen lukeva funktio `lue_kayttajalta` sekä analyysin tekevä funktio `analysoi`.
 
@@ -564,7 +564,7 @@ Desimaaliluvut tulostetaan yhden desimaalin tarkkuudella.
 
 **Vihje:**
 
-Ohjelman syöte koostuu riveistä joilla on peräkkäin kaksi numeroa:
+Ohjelman syöte koostuu riveistä, joilla on peräkkäin kaksi numeroa:
 
 <sample-output>
 
@@ -572,7 +572,7 @@ Koepisteet ja harjoitusten määrä: **15 87**
 
 </sample-output>
 
-Syöterivi pitää pilkkoa ensin kahtia ja muuttaa palaset kokonaisluvuksi `int`-funktiolla. Rivin pilkkominen onnistuu samalla tavalla kun tehtävässä [Eka, toka ja vika sana](/osa-4/2-lisaa-funktioista). Siihen on olemassa myös hieman helpompi keino, merkkijonojen metodi `split`. Googlaa jos haluat, käytä esim. hakusanoja *python string split*.
+Syöterivi pitää pilkkoa ensin kahtia ja muuttaa palaset kokonaisluvuiksi `int`-funktiolla. Rivin pilkkominen onnistuu samalla tavalla kun tehtävässä [Eka, toka ja vika sana](/osa-4/2-lisaa-funktioista). Siihen on olemassa myös hieman helpompi keino, merkkijonojen metodi `split`. Googlaa jos haluat, käytä esim. hakusanoja *python string split*.
 
 <!-- **Huomaa** että tällä hetkellä Windowsissa on ongelmia joidenkin tehtävien testien suorittamisessa. Jos törmäät seuraavaan virheilmoitukseen
 
