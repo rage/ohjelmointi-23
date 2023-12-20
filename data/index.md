@@ -34,7 +34,7 @@ Käytä ensisijaisesti viestintävälineenä Discordia. Kurssin opettajiin voit 
 
 ## Aikataulu
 
-Kurssi on auki vuoden 2023 loppuun asti. Tehtäviä voi tehdä omaan tahtiin siihen asti.
+Kurssi on auki vuoden 2023 loppuun asti. Tehtäviä voi tehdä omaan tahtiin siihen asti. Huomaa, että jos osallistut vuonna 2024 järjestettäviin viimeisiin tentteihin, voit kuitenkin jatkaa tehtäväpisteiden keräämistä tenttipäivän aamuun asti.
 
 ## Luennot
 
