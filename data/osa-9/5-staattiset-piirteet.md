@@ -243,7 +243,7 @@ Muuta toiminnallisuutta ei tarvitse toteuttaa.
 
 Luokkametodi eli staattinen metodi on luokassa oleva metodi, jota ei ole sidottu mihinkään luokasta muodostettuun olioon. Niinpä luokkametodia voi kutsua ilman, että luokasta muodostetaan oliota.
 
-Luokkametodit ovat yleensä työkalumetodeja, jotka liittyvät jotenkin luokkaan mutta joita on tarkoituksenmukaista kutsua ilman olion muodostamista. Luokkametodit ovat yleensä julkisia, jolloin niitä voidaan kutsua sekä luokan ulkopuolelta että luokan ja siitä muodostettujen olioiden sisältä.
+Luokkametodit ovat yleensä työkalumetodeja, jotka liittyvät jotenkin luokkaan, mutta joita on tarkoituksenmukaista kutsua ilman olion muodostamista. Luokkametodit ovat yleensä julkisia, jolloin niitä voidaan kutsua sekä luokan ulkopuolelta että luokan ja siitä muodostettujen olioiden sisältä.
 
 Luokkametodi merkitään annotaatiolla `@classmethod` ja sen ensimmäinen parametri on aina `cls`. Tunnistetta `cls` käytetään samaan tapaan kuin tunnistetta `self`, mutta erotuksena on, että `cls` viittaa luokkaan ja `self` viittaa olioon. Kummallekaan parametrille ei anneta kutsuessa arvoa, vaan Python tekee sen automaattisesti.
 
@@ -305,14 +305,14 @@ Tämä on validi tunnus!
 
 </sample-output>
 
-Rekisteriotteen oikeellisuuden voi tarkistaa kutsumalla metodia (esimerkiksi `Rekisteriote.rekisteritunnus_kelpaa("xyz-789"))`) ilman, että muodostaa luokasta oliota. Samaa metodia kutsutaan myös uutta oliota muodostaessa luokan konstruktorista. Huomaa kuitenkin, että myös tässä kutsussa viitataan metodiin luokan nimen avulla eikä `self`-tunnisteella!
+Rekisteriotteen oikeellisuuden voi tarkistaa kutsumalla metodia (esimerkiksi `Rekisteriote.rekisteritunnus_kelpaa("xyz-789"))`) ilman, että muodostaa luokasta oliota. Samaa metodia kutsutaan myös luokan konstruktorista muodostettaessa uutta oliota. Huomaa kuitenkin, että myös tässä kutsussa viitataan metodiin luokan nimen avulla eikä `self`-tunnisteella!
 
 <programming-exercise name='Lista-apuri' tmcname='osa09-14_lista_apuri'>
 
 Kirjoita luokka `ListaApuri`, jossa on seuraavat kaksi luokkametodia:
 
 * Metodi `suurin_frekvenssi(lista: list)` palauttaa alkion, jota esiintyy annetussa listassa eniten
-* Metodi `tuplia(lista: list)` palauttaa sellaisten alkioden lukumäärän, jotka esiintyvät listassa vähintään kahdesti
+* Metodi `tuplia(lista: list)` palauttaa sellaisten alkioiden lukumäärän, jotka esiintyvät listassa vähintään kahdesti
 
 Metodeja tulee voida käyttää ilman, että luokasta luodaan oliota. Esimerkki luokan käytöstä:
 

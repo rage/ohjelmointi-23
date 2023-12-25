@@ -61,7 +61,7 @@ print(puolikas + kolmasosa)
 
 </sample-output>
 
-Esimerkistä huomataan, että konstuktorikutsut poikkeavat aiemmista metodikutsuista. Konstruktorikutsuja ei ole sidottu tiettyyn olioon (mikä on sikäli loogista, että olio muodostetaan kutsumalla konstruktoria). Lisäksi metodin nimi on kirjoitettu isolla alkukirjaimella: `puolikas = Fraction(1,2)`. Pureudutaan tarkemmin olion muodostamisen mekanismiin esittelemällä _luokan_ käsite.
+Esimerkistä huomataan, että konstruktorikutsut poikkeavat aiemmista metodikutsuista. Konstruktorikutsuja ei ole sidottu tiettyyn olioon (mikä on sikäli loogista, että olio muodostetaan kutsumalla konstruktoria). Lisäksi metodin nimi on kirjoitettu isolla alkukirjaimella: `puolikas = Fraction(1,2)`. Pureudutaan tarkemmin olion muodostamisen mekanismiin esittelemällä _luokan_ käsite.
 
 ## Luokka on olion käsikirjoitus
 
@@ -264,7 +264,7 @@ Maito
 Myös seuraava onnistuu:
 
 ```python
-# kauppalistalla tuotteet on indeksöity ykkösestä alkaen
+# kauppalistalla tuotteet on indeksoitu ykkösestä alkaen
 for i in range(1, kauppalista.tuotteita()+1):
     tuote = kauppalista.tuote(i)
     maara = kauppalista.maara(i)
@@ -301,6 +301,6 @@ if __name__ == "__main__":
 
 </sample-output>
 
-**Huom** koska luokan `Kauppalista` koodi on tehtäväpohjassa valmiina, ei koodissa tarvitse käyttää `import`-lausetta kuten edellisissä esimerkeissä, tehtävissä, jotka käyttävät Pythonin valmiita luokkia `Fraction` ja `date`.
+**Huom** koska luokan `Kauppalista` koodi on tehtäväpohjassa valmiina, ei koodissa tarvitse käyttää `import`-lausetta kuten edellisissä esimerkeissä ja tehtävissä, jotka käyttivät Pythonin valmiita luokkia `Fraction` ja `date`.
 
 </programming-exercise>

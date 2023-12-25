@@ -117,7 +117,7 @@ Edellisessä tehtävässä oletettiin, että luokat on määritelty omissa tiedo
  _Esitellään aluksi luokka Kurssi, joka on määritelty tiedostossa kurssi.py_
 ja importin tarve siis johtuu tästä.
 
-Jos kaikki koodi sijoitetaan samaan tiedostoon, kuten kaikissa kurssin ohjelmointitehtävissä ohjeistetaan, **et tarvitse** `import`:ia luomiesi luokkien käytöön.
+Jos kaikki koodi sijoitetaan samaan tiedostoon, kuten kaikissa kurssin ohjelmointitehtävissä ohjeistetaan, **et tarvitse** `import`:ia luomiesi luokkien käyttöön.
 
 Jos siis päädyt kirjottamaan kurssilla seuraavanlaista koodia
 
@@ -156,7 +156,7 @@ Leevi, kaverina Hulda, joka on sekarotuinen koira
 
 Äskeisissä esimerkeissä oliolla oli attribuuttina yksittäinen toisen luokan olio, esim. henkilöllä attribuuttina lemmikki ja opintosuorituksella attribuuttina kurssi.
 
-Olio-ohjelmoinnissa törmätään kutenkin usein tilanteeseen, jossa oliolla on attribuuttina _joukko_ toisen luokan olioita. Eräs tälläinen tilanne kuvaa joukkueen ja sen pelaajien välistä yhteyttä:
+Olio-ohjelmoinnissa törmätään kutenkin usein tilanteeseen, jossa oliolla on attribuuttina _joukko_ toisen luokan olioita. Eräs tällainen tilanne kuvaa joukkueen ja sen pelaajien välistä yhteyttä:
 
 ```python
 class Pelaaja:
