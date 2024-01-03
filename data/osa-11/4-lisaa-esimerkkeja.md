@@ -457,7 +457,7 @@ niina
 
 komento: **6**
 koodari: **joona**
-työt: valmiina 2 ei valmiina 1, tunteja: tehty 55 tekemättä 1000
+työt: valmiina 1 ei valmiina 1, tunteja: tehty 55 tekemättä 1000
 
 </sample-output>
 
