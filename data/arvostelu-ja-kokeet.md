@@ -8,6 +8,8 @@ sidebar_priority: 4000
 
 Kurssit suoritetaan ratkomalla tehtäviä ja osallistumalla lopuksi kokeeseen.
 
+**Huom!** Tehtäviä saa palauttaa tenttipäivän aamuun klo 8.00 asti myös 2024 vuoden puolelle sijoittuville tenteille, eli kurssin suorittamista voi jatkaa hieman vuoden 2024 puolelle.
+
 ### Ohjelmoinnin perusteet koepäivät 2023
 
 * Lauantai 13.01.2024
