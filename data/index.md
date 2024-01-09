@@ -36,8 +36,6 @@ Käytä ensisijaisesti viestintävälineenä Discordia. Kurssin opettajiin voit 
 
 Kurssi on auki vuoden 2023 loppuun asti. Tehtäviä voi tehdä omaan tahtiin siihen asti.
 
-**Huom!** Tehtäviä saa palauttaa tenttipäivän aamuun klo 8.00 asti myös 2024 vuoden puolelle sijoittuville tenteille, eli kurssin suorittamista voi jatkaa hieman vuoden 2024 puolelle.
-
 ## Luennot
 
 Liveluentoja voi seurata maanantaisin klo 14.15 4.9.2023 alkaen [Zoomin kautta](https://helsinki.zoom.us/j/69849285795?pwd=WHIvOTJ2UmNLVG1ocTYvREx5THZPQT09) (Huom! Päivitetty jatkokurssin linkki!)
