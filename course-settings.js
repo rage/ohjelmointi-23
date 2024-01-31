@@ -52,6 +52,10 @@ const courseSettings = {
       tmcOrganization: "laurea",
       tmcCourse: "OhjelmointiPerusSyksy2023PythonKKAH"
     },
+    {
+      tmcOrganization: "seamk",
+      tmcCourse: "seamk-ohjelmoinnin-perusteet-1-2024"
+    },
   ],
 }
 
