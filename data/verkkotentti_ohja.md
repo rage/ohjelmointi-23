@@ -64,6 +64,8 @@ hide_in_sidebar: false
 * Tehtävät palautetaan samalla tavalla kuin kurssitehtävät.
 * Tenttitehtävissä **ei ole automaattisia testejä**.
 * Tenttiajan päättymisen jälkeen tehdyt palautukset johtavat tenttisuorituksen hylkäämiseen.
+* **Mikäli tehtävien palautus "Run Tests" napilla ei onnistu, kokeile seurata tämän kuvan ohjeita tehtävien palautukseen ilman paikallisten testien ajamista (Paina ensin kohdasta1, sitten kohdasta 2): [https://drive.google.com/file/d/1XalUmwEpog3mCALzO_uNCtkRzGoL5Gj7/view?usp=sharing](https://drive.google.com/file/d/1XalUmwEpog3mCALzO_uNCtkRzGoL5Gj7/view?usp=sharing)**
+
 
 #### Tentin lopetus
 
